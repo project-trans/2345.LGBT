@@ -31,9 +31,6 @@ links:
   - title: MtF Hub
     tags: [MtF]
     url: https://hub.mtf.party/explore
-  - title: ADHD/ASD 成人可确诊地图
-    tags: [ADHD]
-    url: https://qingshanasd.cn/medical-map/
   - title: awesome trans
     tags: [MtF, FtM]
     url: https://awesometrans.github.io/awesometrans_zh/

@@ -10,6 +10,10 @@ weight: 1000
 - Backlight.Town 逆光小镇\
   联系 [@rikablossom](https://t.me/rikablossom) 加入
 
+## ADHD/ASD {#adhd}
+
+- [成人可确诊地图](https://qingshanasd.cn/medical-map/)
+
 ## 组织机构 {#organization}
 
 - [跨儿心理小组](https://kuaerxinli.org)
