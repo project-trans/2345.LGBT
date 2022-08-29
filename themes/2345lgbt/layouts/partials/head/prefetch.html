@@ -1,0 +1,4 @@
+{{- $currentPage := . -}}
+{{- range .Site.Pages }}
+<link rel="prefetch" href="{{ .RelPermalink }}" as="document">
+{{- end }}

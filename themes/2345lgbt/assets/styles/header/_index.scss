@@ -1,0 +1,24 @@
+header {
+  position: sticky;
+  top: 0;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  width: 100%;
+
+  background: #fff;
+
+  @import 'heading';
+  @import 'categories';
+
+  .container {
+    padding: 0;
+
+    > section:not(.featured),
+    > section.featured nav {
+      padding: 0 1.25rem;
+    }
+  }
+}

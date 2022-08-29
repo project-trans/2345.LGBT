@@ -1,0 +1,70 @@
+baseURL: https://2345.lgbt
+theme: 2345lgbt
+
+title: 2345.LGBT
+copyright: |-
+  Designed by [星咲あかり&star;](https://twitter.com/akari_hoshisaki).
+  Powered by [Hugo](https://gohugo.io).
+
+  Copyright &copy; #YEAR# [MtF.wiki](https://mtf.wiki).
+  Theme [LGPLv3](https://github.com/mtf-wiki/2345.LGBT/blob/main/LICENSE),
+  Content [CC 0](https://creativecommons.org/share-your-work/public-domain/cc0/).
+disableKinds: [taxonomy, term, RSS]
+disableHugoGeneratorInject: true
+
+languageCode: zh-cn
+enableRobotsTXT: true
+enableGitInfo: true
+defaultContentLanguage: zh-cn
+defaultContentLanguageInSubdir: true
+
+uglyURLs: true
+
+params:
+  repoURL: https://github.com/mtf-wiki/2345.LGBT
+  contentSecurityPolicy: >-
+    default-src 'self';
+    img-src 'self' https://*;
+    style-src 'self' 'unsafe-inline';
+
+social:
+  twitter: MtFwiki
+  twitterCreator: MtFwiki
+
+module:
+  hugoVersion:
+    extended: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+languages:
+  zh-cn:
+    contentDir: content.zh-cn
+    languageName: 大陆（简体）
+    timeZone: Asia/Shanghai
+    weight: 1
+  zh-hk:
+    contentDir: content.zh-hk
+    languageName: 香港（繁體）
+    timeZone: Asia/Hong_Kong
+    weight: 2
+  zh-tw:
+    contentDir: content.zh-tw
+    languageName: 臺灣（正體）
+    timeZone: Asia/Taipei
+    weight: 3
+  ja:
+    contentDir: content.ja
+    languageName: 日本（日本語）
+    timeZone: Asia/Tokyo
+    weight: 4
+    social:
+      twitter: MtFwikiJapan
+  en:
+    contentDir: content.en
+    languageName: English
+    timeZone: UTC
+    weight: 5

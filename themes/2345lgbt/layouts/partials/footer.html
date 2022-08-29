@@ -1,0 +1,17 @@
+{{- $currentLanguage := .Language -}}
+{{- $home := .Site.Home -}}
+<section class="container">
+<footer>
+  <p class="slogan">{{ $home.Params.slogan | markdownify }}</p>
+  <p class="last-modified">{{ T "last-modified" .Lastmod }}</p>
+  <section class="translations">
+    <button>{{ .Language.LanguageName }}</button>
+    <nav>
+      {{- range $home.AllTranslations }}
+      <a href="{{ .RelPermalink }}" data-active="{{ eq $currentLanguage .Language }}">{{ .Language.LanguageName }}</a>
+      {{- end }}
+    </nav>
+  </section>
+  <section class="copyright">{{ .Site.Copyright | replaceRE "#YEAR#" now.Year | markdownify }}</section>
+</footer>
+</section>

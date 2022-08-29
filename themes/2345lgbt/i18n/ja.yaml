@@ -1,0 +1,2 @@
+last-modified: 更新時間：{{ .Format "2006 年 1 月 2 日" }}
+improve-this-repo: GitHub に貢献する

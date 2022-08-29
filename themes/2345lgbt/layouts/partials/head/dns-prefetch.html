@@ -1,0 +1,19 @@
+{{- $hosts := .Scratch.Get "hosts" -}}
+{{- with .Site.Home.Params -}}
+  {{-
+    $urls := append
+      (apply .featured "urls.Parse" ".url")
+      (apply .links "urls.Parse" ".url")
+  -}}
+  {{- range $urls -}}
+    {{- if not .Host -}}{{ continue }}{{- end -}}
+    {{- $hosts = $hosts | append .Host -}}
+  {{- end -}}
+{{- end -}}
+{{- if $hosts -}}
+<meta http-equiv="x-dns-prefetch-control" content="on">
+{{- $hosts = apply $hosts "lower" "." -}}
+{{- range $hosts | uniq | sort }}
+<link rel="dns-prefetch" href="//{{ . | safeURL -}}">
+{{- end -}}
+{{- end -}}

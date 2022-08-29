@@ -1,0 +1,25 @@
+ul,
+ol {
+  padding-left: 1em;
+}
+
+li + li {
+  margin-top: 1rem;
+}
+
+li > ul,
+li > ol {
+  margin-top: 1rem;
+  li + li {
+    margin-top: 0.75rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  border-bottom: none;
+}

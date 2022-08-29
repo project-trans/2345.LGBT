@@ -1,0 +1,32 @@
+name: Add/Remove URL
+description: Add/Remove URL
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to fill out this report!
+  - type: input
+    id: url
+    attributes:
+      label: URL
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: What language do you need to contribute to?
+      options:
+        - 大陆（简体）
+        - 香港（繁體）
+        - 臺灣（正體）
+        - 日本（日本語）
+        - English
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: Content
+      description: Please explain why it is added or removed.
+    validations:
+      required: true

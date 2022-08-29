@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": {
+    "CODEOWNERS": "plaintext",
+    "LICENSE": "plaintext",
+    "**/layouts/**/*.xml": "plaintext"
+  },
+  "search.exclude": {
+    "**/vendor": true
+  }
+}

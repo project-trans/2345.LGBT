@@ -1,0 +1,16 @@
+$padding-1: 0.0625rem;
+$border-radius: var(--border-radius);
+$link-active: #3287ff;
+$link-inactive: #000;
+
+:root {
+  --border-radius: 0.75rem;
+
+  @media only screen and (min-width: 37.5rem) {
+    --border-radius: 1.125rem;
+  }
+
+  @media only screen and (min-width: 90rem) {
+    --border-radius: 1.5rem;
+  }
+}

@@ -1,0 +1,5 @@
+{{- $scratch := .Page.Scratch -}}
+{{- with (urls.Parse .Destination).Host -}}
+  {{- $scratch.Add "hosts" (slice .) -}}
+{{- end -}}
+<a href="{{ .Destination | safeURL }}" target="_blank">{{ partial "url" .Text }}</a>

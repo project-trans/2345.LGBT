@@ -1,0 +1,80 @@
+.translations {
+  font-size: 0.875rem;
+
+  position: relative;
+
+  min-width: 9em;
+
+  @media only screen and (min-width: 37.5rem) {
+    position: absolute;
+    top: 0.75rem;
+    right: 1.5rem;
+  }
+
+  &.active {
+    nav {
+      display: flex;
+    }
+    button {
+      cursor: pointer;
+
+      border-top-color: transparent;
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+    }
+  }
+}
+
+.translations nav {
+  position: absolute;
+  bottom: 100%;
+
+  display: none;
+  flex-direction: column;
+
+  width: 100%;
+  padding: 0.5em;
+
+  border: $padding-1 solid #79747e;
+  border-bottom: none;
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+  background: #f5f5f5;
+  a {
+    line-height: 1.5;
+
+    text-decoration: none;
+
+    color: $link-inactive;
+
+    &[data-active='true'] {
+      color: $link-active;
+    }
+  }
+}
+
+.translations button {
+  line-height: 2.25;
+
+  width: 100%;
+  padding: 0 1em;
+
+  text-align: left;
+
+  color: #49454f;
+  border: $padding-1 solid #79747e;
+  border-radius: 1em;
+  background: transparent;
+  &::before {
+    display: inline-block;
+
+    width: 1em;
+    height: 1em;
+    margin-right: 0.5em;
+
+    content: '';
+    vertical-align: middle;
+
+    background: url(icons/global.svg) no-repeat center;
+  }
+}

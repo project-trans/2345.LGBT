@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1,  maximum-scale=1, user-scalable=no">
+{{- with .Site.Params.contentSecurityPolicy }}
+<meta http-equiv="content-security-policy" content="{{ . }}">
+{{- end }}
+<link href="{{ .Page.Permalink }}" rel="canonical">
+{{- partial "head/link-icon.html" . }}
+<title>
+{{- $title := slice .Page.Title .Site.Title }}
+{{- if .IsHome }}{{ $title = after 1 $title }}{{ end }}
+{{- delimit $title " - " -}}
+</title>
+{{ partial "head/opengraph.html" . }}
+{{ partial "head/twitter-card.html" . }}
+{{ partial "head/alternate.html" . }}
+{{ partial "head/prefetch.html" . }}
+{{ partial "head/dns-prefetch.html" . }}
+{{ partial "head.html" . }}
+</head>
+<body>
+{{- partial "header.html" . }}
+{{- block "main" . }}{{ end }}
+{{- partial "footer.html" . }}
+{{- partial "foot.html" . }}
+</body>
+</html>

@@ -1,0 +1,5 @@
+{{- $icon := resources.GetMatch "favicon**" }}
+{{- $type := $icon.ResourceType }}
+<link href="{{ $icon.RelPermalink }}" rel="icon">
+<link href="{{ $icon.RelPermalink }}" rel="shortcut icon">
+<link href="{{ $icon.RelPermalink }}" rel="apple-touch-icon">

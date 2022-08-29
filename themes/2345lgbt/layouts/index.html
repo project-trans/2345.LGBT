@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main class="homepage">
+{{- with .Params.banner }}
+<section class="container banner">
+  <section class="caption">{{ .caption | markdownify }}</section>
+  <section class="description">{{ .description | markdownify }}</section>
+</section>
+{{- end }}
+{{- with .Params.featured }}
+<section class="container featured">
+  <nav>
+    {{- range . }}
+    <a class="card" href="{{ .url | safeURL }}"><b>{{ .title }}</b><i>{{ partial "url" .url }}</i></a>
+    {{- end }}
+  </nav>
+</section>
+{{- end }}
+<section class="container tags">
+{{- $tags := slice }}
+{{- range .Params.links }}{{ $tags = $tags | append .tags }}{{ end }}
+{{- $tags := $tags | uniq | sort }}
+{{ range $tags }}<button data-tag="{{ . }}">{{ . }}</button>{{ end }}
+</section>
+<section class="container links">
+{{- range .Params.links }}
+{{ $tags := delimit .tags "," -}}
+<a href="{{ .url }}" class="card" target="_blank" data-tags="{{ $tags }}">
+  <b>{{ .title | safeHTML }}</b>
+  <i>{{ partial "url" .url }}</i>
+  <p class="tags">{{ range .tags }}<span>{{ . }}</span>{{ end }}</p>
+</a>
+{{- end }}
+</section>
+</main>
+{{ end }}

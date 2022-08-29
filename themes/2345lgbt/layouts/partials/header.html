@@ -1,0 +1,27 @@
+{{- $currentPage := . }}
+{{- $home := .Site.Home.Params }}
+<header>
+  <section class="container">
+    <section class="heading">
+      <button class="toggler"></button>
+      <nav class="breadcrumbs">
+        <a class="brand" href="{{ .Site.Home.RelPermalink }}">{{ $home.brand | markdownify }}</a>
+        {{- if not .Page.IsHome }}
+        <span class="slash">/</span>
+        <a href="{{ .Page.RelPermalink }}">{{- .Page.Title -}}</a>
+        {{- end }}
+      </nav>
+      <a class="improve" href="{{ .Site.Params.repoURL }}">{{ T "improve-this-repo" }}</a>
+    </section>
+    <section class="categories" hidden>
+      <nav>
+        <a href="{{ .Site.Home.RelPermalink }}" data-active="{{ eq $currentPage .Site.Home }}">{{ .Site.Home.Title }}</a>
+        {{- range $page := .Site.Pages.ByWeight }}
+        {{- if $page.IsHome }}{{ continue }}{{ end }}
+        <a href="{{ $page.RelPermalink }}" data-active="{{ eq $currentPage $page }}">{{ $page.Title }}</a>
+        {{- end }}
+      </nav>
+    </section>
+  </section>
+  <hr>
+</header>

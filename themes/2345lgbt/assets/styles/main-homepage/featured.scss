@@ -1,0 +1,34 @@
+> .featured {
+  padding: 0;
+
+  > h1 {
+    font-size: 1.125rem;
+    line-height: 1.5;
+
+    margin: 0.5rem 1.25rem;
+  }
+
+  > nav {
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    align-items: center;
+    flex-wrap: nowrap;
+
+    padding: 0 1.25rem;
+
+    white-space: nowrap;
+
+    gap: 1rem;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    > a.card {
+      flex: 1;
+
+      min-width: 15rem;
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{{- with .Params.images | default .Site.Params.images }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ index . 0 | absURL }}">
+{{- else -}}
+{{- with (.Resources.ByType "image").GetMatch "{*feature*,*cover*,*thumbnail*}" -}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ .Permalink }}">
+{{- else -}}
+<meta name="twitter:card" content="summary">
+{{- end }}
+{{- end }}
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ .Description | default (cond .IsPage .Summary .Site.Params.description) }}">
+{{- with .Site.Social.twitter }}
+<meta name="twitter:site" content="@{{ . }}">
+{{- end }}
+{{- with .Site.Social.twitterCreator }}
+<meta name="twitter:creator" content="@{{ . }}">
+{{- end }}

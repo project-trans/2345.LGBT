@@ -1,0 +1,4 @@
+{{- partial "load-script.html" (dict "path" "vendor/cash.min.js") }}
+{{- partial "load-script.html" (dict "path" "vendor/sweetalert.min.js" "disable" (not .Page.Params.modalbox)) }}
+{{- partial "load-script.html" (dict "path" "main.js") }}
+{{- partial "scripts/service-worker.html" . }}

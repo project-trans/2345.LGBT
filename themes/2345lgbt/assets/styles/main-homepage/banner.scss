@@ -1,0 +1,39 @@
+> .banner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  width: 100%;
+
+  gap: 1rem;
+
+  .caption {
+    a {
+      display: block;
+    }
+
+    img {
+      width: 100%;
+
+      border-radius: $border-radius;
+    }
+  }
+
+  .description {
+    flex: 1;
+
+    text-align: right;
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin: 0;
+    }
+
+    p {
+      color: #666;
+    }
+  }
+}

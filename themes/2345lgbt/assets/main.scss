@@ -1,0 +1,39 @@
+@import 'variables';
+
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji;
+  font-size: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  overflow-x: hidden;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  main {
+    flex: 1;
+  }
+}
+
+@import 'styles/general';
+@import 'styles/header';
+@import 'styles/footer';
+@import 'styles/main-homepage';
+@import 'styles/main-page';
+
+.markdown-body {
+  @import 'styles/markdown';
+}
