@@ -4,5 +4,5 @@
   {{- $resource = $resource | minify }}
 {{- end }}
 {{- $resource = $resource | fingerprint }}
-<script src="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}"></script>
+<script src="{{ $resource.RelPermalink }}"></script>
 {{- end }}
