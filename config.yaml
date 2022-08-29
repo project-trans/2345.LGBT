@@ -27,7 +27,7 @@ params:
     img-src 'self' https://*;
     style-src 'self' 'unsafe-inline';
     script-src 'self' static.cloudflareinsights.com;
-    connect-src cloudflareinsights.com;
+    connect-src 'self' cloudflareinsights.com;
 
 social:
   twitter: MtFwiki
