@@ -1,3 +1,6 @@
+{{- if hugo.IsProduction }}
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "481c60ae648e44b0a1f7c6eea96dccbf"}'></script>
+{{- end }}
 {{- partial "load-script.html" (dict "path" "vendor/cash.min.js") }}
 {{- partial "load-script.html" (dict "path" "vendor/sweetalert.min.js" "disable" (not .Page.Params.modalbox)) }}
 {{- partial "load-script.html" (dict "path" "main.js") }}
