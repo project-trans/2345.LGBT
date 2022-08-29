@@ -22,12 +22,12 @@ uglyURLs: true
 
 params:
   repoURL: https://github.com/mtf-wiki/2345.LGBT
-  contentSecurityPolicy: >-
-    default-src 'self';
-    img-src 'self' https://*;
-    style-src 'self' 'unsafe-inline';
-    script-src 'self' static.cloudflareinsights.com;
-    connect-src 'self' cloudflareinsights.com;
+  # contentSecurityPolicy: >-
+  #   default-src 'self';
+  #   img-src 'self' https://*;
+  #   style-src 'self' 'unsafe-inline';
+  #   script-src 'self' static.cloudflareinsights.com;
+  #   connect-src 'self' cloudflareinsights.com;
 
 social:
   twitter: MtFwiki
