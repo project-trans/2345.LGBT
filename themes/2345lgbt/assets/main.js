@@ -1,7 +1,15 @@
+$(window).on('hashchange', () => {
+  const header = document.querySelector('body > header')
+  const element = document.querySelector(location.hash)
+  document.body.scrollTo({ top: element.offsetTop - header.clientHeight - 24, behavior: 'smooth' })
+})
+
 $(document).ready(() => {
   const key = `scrolltop-${location.pathname}`
   const scrollTop = sessionStorage.getItem(key)
-  if (scrollTop) {
+  if (location.hash) {
+    $(window).trigger('hashchange')
+  } else if (scrollTop) {
     document.body.scrollBy({
       top: JSON.parse(scrollTop),
     })
