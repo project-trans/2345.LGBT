@@ -1,14 +1,19 @@
 ---
 title: 其他
-description: 组织机构及周边商品
+description: 未分类资源
 weight: 1000
 ---
 
-## 群组 {#telegram-group}
+## Telegram 群组 {#telegram-group}
 
 - [awesometrans 中文互助群](https://t.me/awesometrans_zh_group)
-- Backlight.Town 逆光小镇\
-  联系 [@rikablossom](https://t.me/rikablossom) 加入
+- Backlight.Town 逆光小镇：联系 [@rikablossom](https://t.me/rikablossom) 加入
+
+## Telegram 频道 {#telegram-channel}
+
+- [MtF.wiki 中文頻道](https://t.me/MtFwiki)
+- [Trans in Academia! Broadcast](https://t.me/transacademia)
+- [Trigger Project](https://t.me/RichardAndLotus)
 
 ## ADHD/ASD {#adhd}
 
@@ -18,6 +23,12 @@ weight: 1000
 
 - [生如夏花](https://bbs.viva-la-vita.org)
 - [生如夏花·知识库](https://wiki.viva-la-vita.org)
+
+## Kigurumi {#kigurumi}
+
+鉴于 [Kigurumi](https://ja.wikipedia.org/wiki/美少女着ぐるみ) 与 跨性别 存在些许交集故收录
+
+- [Kigurumi 不完全手册](https://github.com/u-u-z/kigurumi)
 
 ## 组织机构 {#organization}
 
