@@ -1,9 +1,12 @@
+$padding-right: 2.2em;
+$padding: 0.5em;
+
 .translations {
   font-size: 0.875rem;
 
   position: relative;
 
-  min-width: 9em;
+  width: 10em;
 
   @media only screen and (min-width: 37.5rem) {
     position: absolute;
@@ -33,7 +36,7 @@
   flex-direction: column;
 
   width: 100%;
-  padding: 0.5em;
+  padding: $padding $padding 0 $padding-right;
 
   border: $padding-1 solid #79747e;
   border-bottom: none;
@@ -56,8 +59,10 @@
 .translations button {
   line-height: 2.25;
 
+  position: relative;
+
   width: 100%;
-  padding: 0 1em;
+  padding: 0 $padding 0 $padding-right;
 
   text-align: left;
 
@@ -66,14 +71,15 @@
   border-radius: 1em;
   background: transparent;
   &::before {
+    position: absolute;
+    left: 1em;
+
     display: inline-block;
 
     width: 1em;
-    height: 1em;
-    margin-right: 0.5em;
+    height: 100%;
 
     content: '';
-    vertical-align: middle;
 
     background: url(icons/global.svg) no-repeat center;
   }

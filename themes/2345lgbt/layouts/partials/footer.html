@@ -12,6 +12,6 @@
       {{- end }}
     </nav>
   </section>
-  <section class="copyright">{{ .Site.Copyright | replaceRE "#YEAR#" now.Year | markdownify }}</section>
+  <section class="copyright">{{ replace .Site.Copyright "#YEAR#" now.Year | markdownify }}</section>
 </footer>
 </section>
