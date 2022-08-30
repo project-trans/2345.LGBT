@@ -8,6 +8,8 @@ featured:
     url: https://mtf.wiki/ja/
   - title: '@MtFwikiJapan'
     url: https://twitter.com/MtFwikiJapan
+  - title: MtF.wiki Official
+    url: https://link.mtf.wiki/discord-japan
 links:
   - title: MtF 情報発信サイト
     tags: [Blog]

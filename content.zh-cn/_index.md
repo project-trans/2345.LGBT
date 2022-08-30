@@ -46,9 +46,6 @@ links:
   - title: MtF.wiki Official
     tags: [社区]
     url: https://link.mtf.wiki/discord
-  - title: MtF.wiki Official (Japan)
-    tags: [社区]
-    url: https://link.mtf.wiki/discord-japan
   - title: FtM.wiki Official
     tags: [社区]
     url: https://link.ftm.wiki/discord
