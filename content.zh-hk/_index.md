@@ -43,7 +43,7 @@ links:
     url: http://www.hkbmcc.org
   - title: 眾樂教會
     tags: [支援團體]
-    url: http://www.onebodyinthechrist.blogspot.com
+    url: http://onebodyinthechrist.blogspot.com
   - title: 女同學社
     tags: [支援團體]
     url: http://www.leslovestudy.com

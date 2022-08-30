@@ -19,25 +19,25 @@ links:
     url: https://trnt.lgbt
   - title: 熱線跨性別小站
     tags: [社群]
-    url: https://www.facebook.com/groups/468518206672039/
+    url: https://www.facebook.com/groups/468518206672039
   - title: 多元性別圖書館
     tags: [社群]
-    url: https://www.facebook.com/groups/185580525638320/
+    url: https://www.facebook.com/groups/185580525638320
   - title: 性別不明關懷協會
     tags: [社群]
-    url: https://www.facebook.com/groups/istscareTW/
+    url: https://www.facebook.com/groups/istscareTW
   - title: 偽娘基地
     tags: [社群]
-    url: https://www.facebook.com/groups/291422091340489/
+    url: https://www.facebook.com/groups/291422091340489
   - title: 台灣非二元性別支持社群
     tags: [社群]
-    url: https://www.facebook.com/groups/1008074439681831/
+    url: https://www.facebook.com/groups/1008074439681831
   - title: 皓日專線
     tags: [社群]
     url: https://www.facebook.com/haori.hotline
   - title: 跨夢天空 - 跨性別健康與 HiV 資訊站
     tags: [社群]
-    url: https://www.facebook.com/transdreamsky/
+    url: https://www.facebook.com/transdreamsky
   - title: 國際特赦組織台灣分會
     tags: [政府]
     url: https://www.amnesty.tw
@@ -55,7 +55,7 @@ links:
     url: https://www.dcard.tw/f/trans
   - title: 跨性別板（PPT）
     tags: [社群]
-    url: https://www.ptt.cc/bbs/transgender/index.html
+    url: https://www.ptt.cc/bbs/transgender
   - title: 跨性別資訊 - 臺北市政府
     tags: [政府]
     url: https://transgender.taipei
