@@ -1,25 +1,5 @@
-{{- if hugo.IsProduction }}
-{{-
-$loader := `
-{{
-$worker := resources.Get "service-worker.js"
-  | resources.ExecuteAsTemplate "service-worker.js" .
-  | minify
-  | fingerprint
-}}
-if (navigator.serviceWorker) {
-  navigator.serviceWorker.register({{ $worker.RelPermalink | jsonify }}, {{ dict "scope" .Site.BaseURL | jsonify }})
-    .then((registration) => console.info('Service worker registration successful', { scope: registration.scope }))
-    .catch((error) => console.error('Service worker registration failed', { error }))
-}
-`
--}}
-{{-
-$resource := $loader
-  | resources.FromString "service-worker-loader.js"
-  | resources.ExecuteAsTemplate "service-worker-loader.js" .
-  | minify
-  | fingerprint
--}}
-<script src="{{ $resource.RelPermalink }}" async defer></script>
+{{- if hugo.IsProduction  }}
+{{- $worker := resources.Get "service-worker.js" | resources.ExecuteAsTemplate "service-worker.js" . | minify | fingerprint }}
+{{- $loader := resources.Get "service-worker.loader.js" | minify | fingerprint }}
+<script src="{{ $loader.RelPermalink }}" data-worker="{{ $worker.RelPermalink }}" data-scope="{{ .Site.BaseURL }}" async defer></script>
 {{- end }}
