@@ -1,7 +1,5 @@
 # Transgender Navigation ([2345.LGBT](https://2345.lgbt))
 
-Designed by [星咲あかり&star;](https://twitter.com/akari_hoshisaki)
-
 Maintained by [Code Owners](.github/CODEOWNERS)
 
 ## LICENSE
