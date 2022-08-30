@@ -13,6 +13,7 @@
 {{- if .IsHome }}{{ $title = after 1 $title }}{{ end }}
 {{- delimit $title " - " -}}
 </title>
+<meta name="description" content="{{ .Description | default (cond .IsPage .Summary .Site.Params.description) }}">
 {{ partial "head/opengraph.html" . }}
 {{ partial "head/twitter-card.html" . }}
 {{ partial "head/alternate.html" . }}
