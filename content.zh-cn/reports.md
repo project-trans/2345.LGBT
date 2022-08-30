@@ -32,4 +32,3 @@ weight: 5
 - [Transgender lost years](https://github.com/KristallWang/Transgender-lost-years)
 - [跨性别在线·文档库](https://docs.transonline.org.cn)
 - [LGBT 文件资料·索引库](https://cnlgbtdata.com)
-- [生如夏花·知识库](https://wiki.viva-la-vita.org)

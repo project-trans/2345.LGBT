@@ -40,9 +40,6 @@ links:
   - title: limelight.moe
     tags: [社区]
     url: https://limelight.moe
-  - title: 生如夏花
-    tags: [社区]
-    url: https://bbs.viva-la-vita.org
   - title: MtF.wiki Official
     tags: [社区]
     url: https://link.mtf.wiki/discord

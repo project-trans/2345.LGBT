@@ -14,6 +14,11 @@ weight: 1000
 
 - [成人可确诊地图](https://qingshanasd.cn/medical-map/)
 
+## 性体验 {#sexual-experience}
+
+- [生如夏花](https://bbs.viva-la-vita.org)
+- [生如夏花·知识库](https://wiki.viva-la-vita.org)
+
 ## 组织机构 {#organization}
 
 - [跨儿心理小组](https://kuaerxinli.org)
