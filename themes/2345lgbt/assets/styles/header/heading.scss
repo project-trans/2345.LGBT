@@ -46,30 +46,3 @@ section.heading nav.breadcrumbs {
     color: $link-inactive;
   }
 }
-
-section.heading a.improve {
-  line-height: 1.125;
-
-  display: block;
-
-  padding: 0.5em 1em;
-
-  text-decoration: none;
-
-  color: #fff;
-  border-radius: 6.25em;
-  background: #333;
-  &::before {
-    display: inline-block;
-
-    width: 1em;
-    height: 1em;
-    margin-right: 0.5em;
-
-    content: url(icons/github.svg);
-    vertical-align: middle;
-  }
-  @media only screen and (max-width: 37.5rem) {
-    display: none;
-  }
-}

@@ -6,13 +6,7 @@ $padding: 0.5em;
 
   position: relative;
 
-  width: 10em;
-
-  @media only screen and (min-width: 37.5rem) {
-    position: absolute;
-    top: 0.75rem;
-    right: 1.5rem;
-  }
+  width: 11em;
 
   &.active {
     nav {
@@ -21,16 +15,16 @@ $padding: 0.5em;
     button {
       cursor: pointer;
 
-      border-top-color: transparent;
-      border-top-left-radius: 0;
-      border-top-right-radius: 0;
+      border-bottom-color: transparent;
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0;
     }
   }
 }
 
 .translations nav {
   position: absolute;
-  bottom: 100%;
+  top: 100%;
 
   display: none;
   flex-direction: column;
@@ -39,9 +33,9 @@ $padding: 0.5em;
   padding: $padding $padding 0 $padding-right;
 
   border: $padding-1 solid #79747e;
-  border-bottom: none;
-  border-top-left-radius: 1em;
-  border-top-right-radius: 1em;
+  border-top: none;
+  border-bottom-left-radius: 1em;
+  border-bottom-right-radius: 1em;
   background: #f5f5f5;
   a {
     line-height: 1.5;

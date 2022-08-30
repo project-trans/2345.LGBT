@@ -1,5 +1,6 @@
 {{- $currentPage := . }}
 {{- $home := .Site.Home.Params }}
+{{- $currentLanguage := .Language -}}
 <header>
   <section class="container">
     <section class="heading">
@@ -11,7 +12,14 @@
         <a href="{{ .Page.RelPermalink }}">{{- .Page.Title -}}</a>
         {{- end }}
       </nav>
-      <a class="improve" href="{{ .Site.Params.repoURL }}">{{ T "improve-this-repo" }}</a>
+      <section class="translations">
+        <button>{{ .Language.LanguageName }}</button>
+        <nav>
+          {{- range .Site.Home.AllTranslations }}
+          <a href="{{ .RelPermalink }}" data-active="{{ eq $currentLanguage .Language }}">{{ .Language.LanguageName }}</a>
+          {{- end }}
+        </nav>
+      </section>
     </section>
     <section class="categories" hidden>
       <nav>
