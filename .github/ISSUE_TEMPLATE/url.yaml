@@ -16,7 +16,7 @@ body:
       label: Language
       description: What language do you need to contribute to?
       options:
-        - 大陆（简体）
+        - 中国大陆（简体）
         - 香港（繁體）
         - 臺灣（正體）
         - 日本（日本語）

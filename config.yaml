@@ -45,7 +45,7 @@ markup:
 languages:
   zh-cn:
     contentDir: content.zh-cn
-    languageName: 大陆（简体）
+    languageName: 中国大陆（简体）
     timeZone: Asia/Shanghai
     weight: 1
   zh-hk:
