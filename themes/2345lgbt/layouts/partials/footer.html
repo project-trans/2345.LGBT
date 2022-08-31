@@ -3,9 +3,7 @@
 <footer>
   <p class="slogan">{{ $home.Params.slogan | markdownify }}</p>
   <p class="last-modified">{{ T "last-modified" .Lastmod }}</p>
-  <section class="improve-icon">
-    <a class="improve" href="{{ .Site.Params.repoURL }}">{{ T "improve-this-repo" }}</a>
-  </section>
+  <a class="improve" href="{{ .Site.Params.repoURL }}">{{ T "improve-this-repo" }}</a>
   <section class="copyright">{{ replace .Site.Copyright "#YEAR#" now.Year | markdownify }}</section>
 </footer>
 </section>

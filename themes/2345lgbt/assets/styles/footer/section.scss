@@ -35,12 +35,13 @@ section.copyright {
 }
 
 a.improve {
-  position: relative;
-
   @media only screen and (min-width: 37.5rem) {
     position: absolute;
     top: 0.75rem;
     right: 1.5rem;
+  }
+  @media only screen and (max-width: 37.5rem) {
+    position: relative;
   }
 
   line-height: 1.125;
@@ -63,8 +64,5 @@ a.improve {
 
     content: url(icons/github.svg);
     vertical-align: middle;
-  }
-  @media only screen and (max-width: 37.5rem) {
-    display: none;
   }
 }
