@@ -12,6 +12,7 @@
         <a href="{{ .Page.RelPermalink }}">{{- .Page.Title -}}</a>
         {{- end }}
       </nav>
+      {{- if .Page.IsHome }}
       <section class="translations">
         <button>{{ .Language.LanguageName }}</button>
         <nav>
@@ -20,6 +21,7 @@
           {{- end }}
         </nav>
       </section>
+      {{- end }}
     </section>
     <section class="categories" hidden>
       <nav>
