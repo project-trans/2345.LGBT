@@ -1,4 +1,4 @@
-{{- $hosts := .Scratch.Get "hosts" -}}
+{{- $hosts := .Page.Store.Get "hosts" -}}
 {{- with .Site.Home.Params -}}
   {{-
     $urls := append
