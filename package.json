@@ -1,0 +1,9 @@
+{
+  "name": "@mtf-wiki/2345-dot-lgbt",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "cash-dom": "^8.1.1",
+    "sweetalert": "^2.1.2"
+  }
+}

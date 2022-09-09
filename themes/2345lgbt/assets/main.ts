@@ -1,6 +1,11 @@
+import $ from 'cash-dom'
+import swal from 'sweetalert'
+
 $(window).on('hashchange', () => {
   const header = document.querySelector('body > header')
-  const element = document.querySelector(location.hash)
+  const element = document.querySelector<HTMLElement>(location.hash)
+  if (!header) return
+  if (!element) return
   document.body.scrollTo({ top: element.offsetTop - header.clientHeight - 24, behavior: 'smooth' })
 })
 
@@ -25,17 +30,22 @@ $(document).on('click', '.heading button.toggler', () => {
     })
 })
 
-$(document).on('click', '.markdown-body a[href]', (event) => {
-  if (event.target.hostname !== 'open.weixin.qq.com') return
+$(document).on('click', '.markdown-body a[href]', (event: Event) => {
+  const target = event.target as HTMLAnchorElement
+  if (target.hostname !== 'open.weixin.qq.com') return
   event.preventDefault()
   event.stopPropagation()
-  const qrcode = document.createElement('img')
-  qrcode.src = event.target.href
-  qrcode.width = 430
-  qrcode.height = 430
-  qrcode.style.width = '100%'
-  qrcode.style.height = '100%'
-  swal(event.target.textContent, { content: qrcode })
+  swal(target.textContent ?? '', {
+    content: {
+      element: 'img',
+      attributes: {
+        src: target.href,
+        width: 430,
+        height: 430,
+        style: 'width: 100%; height: 100%;',
+      },
+    },
+  })
 })
 
 $(document).on('click', 'main.homepage .container.tags button', (event) => {

@@ -1,8 +1,4 @@
 {{- if not .disable }}
-{{- $resource := resources.Get .path -}}
-{{- if not (strings.HasSuffix $resource.Name ".min.js") }}
-  {{- $resource = $resource | minify }}
-{{- end }}
-{{- $resource = $resource | fingerprint }}
+{{- $resource := resources.Get .path | js.Build | minify | fingerprint  }}
 <script src="{{ $resource.RelPermalink }}"></script>
 {{- end }}

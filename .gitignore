@@ -1,3 +1,5 @@
+/node_modules
+
 # Generated files by hugo
 /public/
 /resources/_gen/
