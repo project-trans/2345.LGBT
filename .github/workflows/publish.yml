@@ -7,22 +7,18 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     if: "! contains(toJSON(github.event.commits.*.message), '[skip ci]')"
     steps:
       - uses: actions/checkout@v2
-        with:
-          submodules: true
-          fetch-depth: 0
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - uses: actions/setup-node@v3
+      - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: latest
           extended: true
-      - name: Build
-        run: hugo --minify
-      - name: Upload artifact
-        if: github.ref == 'refs/heads/main'
+      - name: npm ci
+      - run: hugo --minify
+      - if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v1
         with:
           path: public
@@ -34,7 +30,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
