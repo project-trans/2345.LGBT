@@ -16,7 +16,7 @@ jobs:
         with:
           hugo-version: latest
           extended: true
-      - name: npm ci
+      - run: npm ci
       - run: hugo --minify
       - if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v1
