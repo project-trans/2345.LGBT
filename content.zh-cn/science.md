@@ -13,7 +13,7 @@ weight: 7
 
 - [Androgen Receptor Repeat Length Polymorphism Associated with Male-to-Female Transsexualism](https://doi.org/10.1016/j.biopsych.2008.08.033). (2008)
 - [Transfeminine Science](https://transfemscience.org)（英文）\
-  [中文译本](https://mtf-wiki.github.io/transfeminine-science/)
+  [中文译本](https://tfsci.mtf.wiki)
 
 ## MtF SRS
 
