@@ -5,7 +5,7 @@ weight: 4
 
 更多影视文化作品站点可从 [日本]({{< ref path="cultural-works" lang="ja" >}})、[台湾]({{< ref path="cultural-works" lang="zh-tw" >}})、[英语]({{< ref path="cultural-works" lang="en" >}}) 版本中了解
 
-## 电影 {#movice}
+## 电影 {#movie}
 
 - [有性无别](https://movie.douban.com/subject/26954005/) (2016)\
   中国

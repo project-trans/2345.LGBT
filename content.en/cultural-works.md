@@ -8,7 +8,7 @@ weight: 2
 - [Luna](https://en.wikipedia.org/wiki/Luna_%28Peters_novel%29) (2004)
 - [Becoming Nicole](https://en.wikipedia.org/wiki/Nicole_Maines) (2015)
 
-## Movice
+## Movie
 
 - [Boys Don't Cry](https://en.wikipedia.org/wiki/Boys_Don%27t_Cry_%281999_film%29) (1999)
 - [Soldier's Girl](https://en.wikipedia.org/wiki/Soldier%27s_Girl) (2003)
