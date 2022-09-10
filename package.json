@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "cash-dom": "^8.1.1",
+    "github-markdown-css": "^5.1.0",
+    "normalize.css": "^8.0.1",
     "sweetalert": "^2.1.2"
   }
 }
