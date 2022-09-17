@@ -1,4 +1,7 @@
 {{- if hugo.IsProduction }}
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "481c60ae648e44b0a1f7c6eea96dccbf"}' nonce="cloudflareinsights"></script>
 {{- end }}
+{{- if hugo.IsProduction }}
+{{- partial "load-script.html" (dict "path" "gtag.ts") }}
+{{- end }}
 {{- partial "load-script.html" (dict "path" "main.ts") }}
