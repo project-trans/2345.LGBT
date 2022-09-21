@@ -1,2 +1,6 @@
 User-agent: *
-Sitemap: {{ "sitemap.xml" | absURL }}
+{{- if eq .Site.BaseURL "https://2345.lgbt" }}
+Sitemap: {{ absURL "sitemap.xml" }}
+{{- else }}
+Disallow: /
+{{- end }}

@@ -1,2 +1,5 @@
 {{ partial "load-style.html" "vendor.scss" }}
 {{ partial "load-style.html" "main.scss" }}
+{{- if ne .Site.BaseURL "https://2345.lgbt" }}
+<meta name="robots" content="noindex, nofollow">
+{{- end }}
