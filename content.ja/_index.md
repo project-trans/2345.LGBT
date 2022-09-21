@@ -23,9 +23,6 @@ links:
   - title: 睾丸摘出専門 東京ジェンダークリニック
     tags: [SRS]
     url: http://www.gid-cli.com
-  - title: トランス差別に関する日本語情報まとめ
-    tags: [Wiki]
-    url: https://transwiki.page
   - title: 全国医療地図
     tags: [Maps]
     url: https://link.mtf.wiki/maps/jp
