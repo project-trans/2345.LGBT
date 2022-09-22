@@ -14,6 +14,7 @@ weight: 1000
 - [MtF.wiki 中文頻道](https://t.me/MtFwiki)
 - [Trans in Academia! Broadcast](https://t.me/transacademia)
 - [Trigger Project](https://t.me/RichardAndLotus)
+- [性别偏见与性别议题](https://t.me/daily_feminist)
 
 ## ADHD/ASD {#adhd}
 
