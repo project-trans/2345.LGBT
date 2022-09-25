@@ -16,6 +16,10 @@ weight: 1000
 - [Trigger Project](https://t.me/RichardAndLotus)
 - [性别偏见与性别议题](https://t.me/daily_feminist)
 
+## YouTube Channel {#youtube-channel}
+
+- [柑橘与百合 Citrus & Lilium](https://www.youtube.com/channel/UCgfr45LK6VTcuuMVBHsiNnQ)
+
 ## ADHD/ASD {#adhd}
 
 - [成人可确诊地图](https://qingshanasd.cn/medical-map/)
