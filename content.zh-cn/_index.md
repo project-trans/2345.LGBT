@@ -49,4 +49,7 @@ links:
   - title: r/mtf_zh
     tags: [社区]
     url: https://www.reddit.com/r/mtf_zh
+  - title: Transman Helper
+    tags: [社区]
+    url: https://www.transmanhelper.com
 ---
