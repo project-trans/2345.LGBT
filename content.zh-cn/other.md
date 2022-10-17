@@ -46,3 +46,4 @@ weight: 1000
 - [春の芽工作室](https://shop176105244.taobao.com)
 - [K411 号橙子](https://shop215942740.taobao.com)
 - [三色喵手作](https://shop593269869.taobao.com)
+- [荔枝实验室](https://litchilab.taobao.com/)
