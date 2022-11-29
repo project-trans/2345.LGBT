@@ -12,8 +12,8 @@ weight: 7
 ## MtF HRT
 
 - [Androgen Receptor Repeat Length Polymorphism Associated with Male-to-Female Transsexualism](https://doi.org/10.1016/j.biopsych.2008.08.033). (2008)
-- [Transfeminine Science](https://transfemscience.org)（英文）\
-  [中文译本](https://tfsci.mtf.wiki)
+- [“女性倾向跨性别者科学”中文译本存档站](https://tfsci.mtf.wiki/zh-cn/)\
+  原站：[Transfeminine Science](https://transfemscience.org)（英文）
 
 ## MtF SRS
 
