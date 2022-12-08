@@ -20,7 +20,7 @@ weight: 4
 - [เคยรักฉันจริงๆหรือเปล่า](https://www.youtube.com/watch?v=JPvI3FD891g) (你真的爱过我吗) - Zee
 - [写给社交恐惧症的一首歌](https://zh.moegirl.org.cn/zh-hans/写给社交恐惧症的一首歌) - 迁梦 / 洛天依
 - [可是我还没有来得及死去](https://zh.moegirl.org.cn/zh-hans/可是我还没有来得及死去) - MEGA 氏 / 星尘
-- [寫給妳的話](https://www.youtube.com/watch?v=BYThnsI4sww) - 洛天依
+- [寫給妳的話](https://link.mtf.wiki/lgbtalbum)
 
 ## 游戏 {#gaming}
 
