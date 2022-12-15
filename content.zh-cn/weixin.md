@@ -28,11 +28,11 @@ modalbox: true
 - [阿四的 FtM 日记]({{< weixin "Alpha04xx" >}})
 - [一个 FtM 的日记本]({{< weixin "gh_510695287c55" >}})
 
-## 同性恋
+## 女性性少数公益
 
 - [BIE 别的女孩]({{< weixin "biedegirls" >}})
 - [女友组 girlfans]({{< weixin "girlfans2009GZ" >}})
-- [lesgo 苏州拉拉公益小组]({{< weixin "lesgosuzhoulala" >}})
+- lesgo 苏州拉拉公益小组 [NEW 同学录]({{< weixin "lesgosuzhoulala" >}})
 
 ## 机构
 
