@@ -52,4 +52,7 @@ links:
   - title: Transman Helper
     tags: [社区]
     url: https://www.transmanhelper.com
+  - title: 蓝天粉梦
+    tags: [社区]
+    url: https://www.latife.me
 ---
