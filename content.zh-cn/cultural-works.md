@@ -17,7 +17,7 @@ weight: 4
 
 ## 音乐 {#music}
 
-- [เคยรักฉันจริงๆหรือเปล่า](https://www.youtube.com/watch?v=JPvI3FD891g) (你真的爱过我吗) - Zee
+- [เคยรักฉันจริงๆหรือเปล่า](https://youtube.com/watch?v=JPvI3FD891g) (你真的爱过我吗) - Zee
 - [写给社交恐惧症的一首歌](https://zh.moegirl.org.cn/zh-hans/写给社交恐惧症的一首歌) - 迁梦 / 洛天依
 - [可是我还没有来得及死去](https://zh.moegirl.org.cn/zh-hans/可是我还没有来得及死去) - MEGA 氏 / 星尘
 - [寫給妳的話](https://youtube.com/playlist?list=PLtzYDwd776n8vFb-Km76PSICFh66WcXMe)

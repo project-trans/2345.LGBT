@@ -18,7 +18,7 @@ weight: 1000
 
 ## YouTube Channel {#youtube-channel}
 
-- [柑橘与百合 Citrus & Lilium](https://www.youtube.com/channel/UCgfr45LK6VTcuuMVBHsiNnQ)
+- [柑橘与百合 Citrus & Lilium](https://youtube.com/channel/UCgfr45LK6VTcuuMVBHsiNnQ)
 
 ## ADHD/ASD {#adhd}
 

@@ -5,7 +5,7 @@ weight: 1
 
 ## 音楽 {#ongaku}
 
-- [女の子になりたい - ニコカラ](https://www.youtube.com/watch?v=ucbx9we6EHk) (2019)
+- [女の子になりたい - ニコカラ](https://youtube.com/watch?v=ucbx9we6EHk) (2019)
 
 ## 映画 {#eiga}
 

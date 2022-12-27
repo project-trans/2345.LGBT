@@ -26,9 +26,9 @@ weight: 2
 
 ## Music
 
-- [1-800-273-8255](https://www.youtube.com/watch?v=Kb24RrHIbFk) - Logic
-- [The Village](https://www.youtube.com/watch?v=tilsrO-3gcQ) - Wrabel
-- [True Trans Soul Rebel](https://www.youtube.com/watch?v=JUrfrCfvZDc) - Against Me!
+- [1-800-273-8255](https://youtube.com/watch?v=Kb24RrHIbFk) - Logic
+- [The Village](https://youtube.com/watch?v=tilsrO-3gcQ) - Wrabel
+- [True Trans Soul Rebel](https://youtube.com/watch?v=JUrfrCfvZDc) - Against Me!
 
 ## Gaming
 
