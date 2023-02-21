@@ -11,6 +11,7 @@ weight: 1000
 
 - [平權在線](https://www.equalityrights.hku.hk)
 - [平等機會委員會](https://www.eoc.org.hk)
+- [香港跨性別法律資料庫](https://www.hktranslawdb.org)
 - [Transgender Resources Center](https://tgr.org.hk)
 
 ## 影視文化作品 {#cultural-works}

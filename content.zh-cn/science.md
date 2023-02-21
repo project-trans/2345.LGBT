@@ -6,7 +6,8 @@ weight: 7
 
 ## 精神科
 
-- [“性别不一致”去精神病化的思考](https://doi.org/10.12014/j.issn.1002-0772.2021.11.10) (2021)
+- [中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断研究](https://pdf.hanspub.org/AP20220100000_27859661.pdf) (2022)
+- [“性别不一致”去精神病化的思考](https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2021.11.10) (2021)
 - [跨性别者的大脑与顺性别者的大脑不同吗？](https://www.the-scientist.com/features/are-the-brains-of-transgender-people-different-from-those-of-cisgender-people-30027) (2018)
 
 ## MtF HRT

@@ -6,6 +6,9 @@ weight: 5
 
 ## 报告 {#reports}
 
+- [2021 全国跨性别健康调研报告](https://cnlgbtdata.com/files/uploads/2023/01/2021全国跨性别健康调研报告.pdf) (2023)
+- [公众对变性人士权利的看法：中国](https://williamsinstitute.law.ucla.edu/publications/opinion-trans-rights-china/) (2021)\
+  本报告介绍了有关中国变性人士及其权利的民意信息。
 - [全球跨性别健康与幸福指数议题](https://transrespect.org/en/tvt-publication-series/) (2020)\
   TvT 社群报告
 - [我需要家长同意才能做自己](https://www.amnesty.org/en/documents/asa17/0269/2019/en/) (2019)\
@@ -21,8 +24,10 @@ weight: 5
 
 ## 指南 {#guide}
 
+- [伴您同行：专为跨性别儿童的父母准备的指南](https://www.congregaytion.com/ill-walk-with-you/zh) (2022)
 - [LGBTI 包容指数拟议指标](https://www.undp.org/publications/lgbti-index) (2019)
 - [促进 LGBTI 人权和包容: 议员手册](https://www.undp.org/zh/china/publications/促进lgbti人权和包容-议员手册) (2017)
+- [应对“扭转治疗”手册](https://www.youguiwujia.com/download-yingduiniuzhuanzhiliaoshouce-ch)
 - [跨性别女性的评估和管理](https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management)
 - [跨性别男性的评估与管理](https://www.uptodate.com/contents/zh-Hans/transgender-men-evaluation-and-management)
 - [跨性别男性的医疗保健医护人员指南](https://www.nickgorton.org/2021/01/17/medical-therapy-and-health-maintenance-for-transgender-men/)（英文）
