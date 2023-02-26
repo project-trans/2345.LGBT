@@ -40,4 +40,16 @@ links:
   - title: Masculinizing hormone therapy
     tags: [FtM, HRT]
     url: https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy
+  - title: r/transgenderUK
+    tags: [MtF, FtM, UK]
+    url: https://www.reddit.com/r/transgenderUK
+  - title: 'r/transgenderUK: FAQ'
+    tags: [MtF, FtM, UK]
+    url: https://www.reddit.com/r/transgenderUK/comments/qt6jng
+  - title: Gender Construction Kit
+    tags: [MtF, FtM, UK]
+    urls: https://genderkit.org.uk
+  - title: Transintion FtM UK
+    tags: [FtM, UK]
+    urls: https://transitionftmuk.co.uk
 ---
