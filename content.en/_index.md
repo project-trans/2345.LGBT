@@ -8,10 +8,10 @@ links:
     tags: [General]
     url: https://genderdysphoria.fyi/en/
   - title: LGBTQ Nation
-    tags: [Generanl]
+    tags: [General]
     url: https://www.lgbtqnation.com
   - title: Xtra Magazine
-    tags: [Generanl]
+    tags: [General]
     url: https://xtramagazine.com
   - title: r/mtf
     tags: [Community]
@@ -47,13 +47,13 @@ links:
     tags: [FtM, HRT]
     url: https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy
   - title: r/transgenderUK
-    tags: [Generanl, UK]
+    tags: [General, UK]
     url: https://www.reddit.com/r/transgenderUK
   - title: 'r/transgenderUK: FAQ'
-    tags: [Generanl, UK]
+    tags: [General, UK]
     url: https://www.reddit.com/r/transgenderUK/comments/qt6jng
   - title: Gender Construction Kit
-    tags: [Generanl, UK]
+    tags: [General, UK]
     urls: https://genderkit.org.uk
   - title: Transintion FtM UK
     tags: [FtM, UK]
