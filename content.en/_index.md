@@ -7,6 +7,12 @@ links:
   - title: That's Gender Dysphoria, FYI
     tags: [General]
     url: https://genderdysphoria.fyi/en/
+  - title: LGBTQ Nation
+    tags: [Generanl]
+    url: https://www.lgbtqnation.com
+  - title: Xtra Magazine
+    tags: [Generanl]
+    url: https://xtramagazine.com
   - title: r/mtf
     tags: [Community]
     url: https://www.reddit.com/r/mtf
@@ -41,13 +47,13 @@ links:
     tags: [FtM, HRT]
     url: https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy
   - title: r/transgenderUK
-    tags: [MtF, FtM, UK]
+    tags: [Generanl, UK]
     url: https://www.reddit.com/r/transgenderUK
   - title: 'r/transgenderUK: FAQ'
-    tags: [MtF, FtM, UK]
+    tags: [Generanl, UK]
     url: https://www.reddit.com/r/transgenderUK/comments/qt6jng
   - title: Gender Construction Kit
-    tags: [MtF, FtM, UK]
+    tags: [Generanl, UK]
     urls: https://genderkit.org.uk
   - title: Transintion FtM UK
     tags: [FtM, UK]

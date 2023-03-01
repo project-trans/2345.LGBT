@@ -9,12 +9,14 @@ weight: 5
 - [2021 全国跨性别健康调研报告](https://cnlgbtdata.com/files/uploads/2023/01/2021全国跨性别健康调研报告.pdf) (2023)
 - [公众对变性人士权利的看法：中国](https://williamsinstitute.law.ucla.edu/publications/opinion-trans-rights-china/) (2021)\
   本报告介绍了有关中国变性人士及其权利的民意信息。
+- [跨性别全球法律概览报告](https://ilga.org/trans-legal-mapping-report) (2020)（英文）
 - [全球跨性别健康与幸福指数议题](https://transrespect.org/en/tvt-publication-series/) (2020)\
   TvT 社群报告
 - [我需要家长同意才能做自己](https://www.amnesty.org/en/documents/asa17/0269/2019/en/) (2019)\
   中国跨性别者寻求性别确认医疗程序时遇到的障碍
 - [中国“同志”等性和性别少数群体境遇有待改善](https://news.un.org/zh/story/2019/06/1036281) (2019)\
   访中华女子学院刘明辉教授
+- [全球主要国家居民对跨性别者态度调查报告](https://www.ipsos.com/en-us/news-polls/global-attitudes-toward-transgender-people) (2018)（英文）
 - [跨性别者性别认同的法律承认](https://www.undp.org/zh/china/publications/跨性别者性别认同的法律承认—中国相关法律和政策评估报告) (2018)\
   中国相关法律和政策评估报告
 - [中国性少数群体生存状况](https://www.undp.org/zh/china/publications/中国性少数群体生存状况-基于性倾向，性别认同和性别表达的社会态度调查报告) (2016)\
