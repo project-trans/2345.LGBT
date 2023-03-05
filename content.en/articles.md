@@ -13,3 +13,4 @@ weight: 5
 
 - [Trans Legal Mapping Report](https://ilga.org/trans-legal-mapping-report) ([ilga world](https://ilga.org), 2020)
 - [Global Attitudes Toward Transgender People](https://www.ipsos.com/en-us/news-polls/global-attitudes-toward-transgender-people) ([Ipsos](https://www.ipsos.com), 2018)
+- [LGBTQ Heritage Theme Study](https://www.nps.gov/subjects/tellingallamericansstories/lgbtqthemestudy.htm) (2016)

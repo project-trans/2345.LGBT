@@ -13,6 +13,9 @@ links:
   - title: Xtra Magazine
     tags: [General]
     url: https://xtramagazine.com
+  - title: TransVoiceLessons
+    tags: [Voice]
+    url: https://www.youtube.com/@TransVoiceLessons
   - title: r/mtf
     tags: [Community]
     url: https://www.reddit.com/r/mtf
