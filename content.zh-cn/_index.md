@@ -37,9 +37,6 @@ links:
   - title: 那些秋叶
     tags: [社区]
     url: https://one-among.us
-  - title: limelight.moe
-    tags: [社区]
-    url: https://limelight.moe
   - title: MtF.wiki Official
     tags: [社区]
     url: https://link.mtf.wiki/discord
