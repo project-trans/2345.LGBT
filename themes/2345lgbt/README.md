@@ -1,6 +1,6 @@
 # hugo-theme-2345lgbt
 
-Developed by [MtF.wiki](https://mtf.wiki)
+Developed by [Project Trans](https://project-trans.org/)
 
 ## LICENSE
 

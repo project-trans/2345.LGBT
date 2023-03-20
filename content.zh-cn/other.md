@@ -29,6 +29,10 @@ weight: 1000
 - [生如夏花](https://bbs.viva-la-vita.org)
 - [生如夏花·知识库](https://wiki.viva-la-vita.org)
 
+## 声音训练 {#voice-training}
+
+- [成为女孩子的声音！](https://girls-voice.mtf.wiki/)
+
 ## Kigurumi {#kigurumi}
 
 鉴于 [Kigurumi](https://ja.wikipedia.org/wiki/美少女着ぐるみ) 与 跨性别 存在些许交集故收录

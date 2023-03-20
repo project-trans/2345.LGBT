@@ -5,8 +5,8 @@ title: 2345.LGBT
 copyright: |-
   Powered by [Hugo](https://gohugo.io).
 
-  Copyright &copy; #YEAR# [MtF.wiki](https://mtf.wiki).
-  Theme [LGPLv3](https://github.com/mtf-wiki/2345.LGBT/blob/main/LICENSE),
+  Copyright &copy; #YEAR# [Project Trans](https://project-trans.org/).
+  Theme [LGPLv3](https://github.com/project-trans/2345.LGBT/blob/main/LICENSE),
   Content [CC 0](https://creativecommons.org/share-your-work/public-domain/cc0/).
 disableKinds: [taxonomy, term, RSS]
 disableHugoGeneratorInject: true
@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir: true
 uglyURLs: true
 
 params:
-  repoURL: https://github.com/mtf-wiki/2345.LGBT
+  repoURL: https://github.com/project-trans/2345.LGBT
   # contentSecurityPolicy: >-
   #   default-src 'self';
   #   img-src 'self' https://*;
