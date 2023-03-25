@@ -9,7 +9,6 @@ weight: 4
 
 ## MtF HRT
 
-- [Transfeminine Science](https://transfemscience.org)
 - [Androgen Receptor Repeat Length Polymorphism Associated with Male-to-Female Transsexualism](https://doi.org/10.1016/j.biopsych.2008.08.033) (2008)
 
 ## MtF SRS
