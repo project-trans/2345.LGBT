@@ -8,7 +8,8 @@ weight: 1
 
 ## 用药
 
-- [Shizu&rsquo;s HRT Guide](https://docs.hrt.guide)
+- [Shizu&rsquo;s 跨性别女性 HRT 资料兼指南](https://docs.hrt.guide)
+- [Transfeminine Science 中文译本存档站](https://tfsci.mtf.wiki) - 还有常用药品说明书喔
 
 ## 诊断证明
 
