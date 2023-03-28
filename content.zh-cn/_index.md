@@ -16,6 +16,10 @@ featured:
   - title: RLE.wiki
     url: https://rle.wiki
 links:
+  - title: MtF.wiki Blog
+    url: https://blog.mtf.wiki
+  - title: MtF.wiki TFSci
+    url: https://tfsci.mtf.wiki
   - title: '@MtFwiki'
     tags: [MtF]
     url: https://twitter.com/MtFwiki
