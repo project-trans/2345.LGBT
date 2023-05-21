@@ -56,7 +56,7 @@ links:
   - title: 跨性別板（Dcard）
     tags: [社群]
     url: https://www.dcard.tw/f/trans
-  - title: 跨性別板（PPT）
+  - title: 跨性別板（PTT）
     tags: [社群]
     url: https://www.ptt.cc/bbs/transgender
   - title: 跨性別資訊 - 臺北市政府
