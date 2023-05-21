@@ -36,9 +36,5 @@ modalbox: true
 
 ## 机构
 
-- 北同文化
-  - [北同文化]({{< weixin "beitong2021" >}})
-  - [北同心理]({{< weixin "gh_81ecf82769f5" >}})
-  - [北同服务号]({{< weixin "lgbtcenterservice" >}})
 - [云南平行健康咨询发展中心]({{< weixin "ynpx087163379065" >}})
 - [同城青少年资源中心]({{< weixin "glcac-03" >}})
