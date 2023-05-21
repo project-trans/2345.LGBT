@@ -13,6 +13,9 @@ links:
   - title: Xtra Magazine
     tags: [General]
     url: https://xtramagazine.com
+  - title: Transgender Map
+    tags: [General]
+    url: https://www.transgendermap.com
   - title: TransVoiceLessons
     tags: [Voice]
     url: https://www.youtube.com/@TransVoiceLessons
