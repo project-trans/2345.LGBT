@@ -52,6 +52,9 @@ links:
   - title: r/mtf_zh
     tags: [社区]
     url: https://www.reddit.com/r/mtf_zh
+  - title: 跨性别选校手册
+    tags: [社区]
+    url: https://uniguide.transacademic.org/zh-hans/
   - title: Transman Helper
     tags: [社区]
     url: https://www.transmanhelper.com

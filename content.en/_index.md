@@ -64,4 +64,10 @@ links:
   - title: Transintion FtM UK
     tags: [FtM, UK]
     urls: https://transitionftmuk.co.uk
+  - title: Trans in Academia!
+    tags: [General]
+    url: https://transacademic.org
+  - title: Transgender University Guidance
+    tags: [General]
+    url: https://uniguide.transacademic.org
 ---

@@ -65,4 +65,7 @@ links:
   - title: AGE OF QUEER
     tags: [新聞]
     url: http://ageofqueer.com/category/news/transgender_news
+  - title: 跨性別選校手冊
+    tags: [支援團體]
+    url: https://uniguide.transacademic.org/zh-hant/
 ---

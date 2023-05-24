@@ -68,4 +68,7 @@ links:
   - title: 性別友善廁所地圖
     tags: [RLE]
     url: https://vocus.cc/article/5f9f8d92fd89780001d14bd5
+  - title: 跨性別選校手冊
+    tags: [社群]
+    url: https://uniguide.transacademic.org/zh-hant/
 ---
