@@ -6,19 +6,20 @@ weight: 1000
 
 ## Telegram 群组 {#telegram-group}
 
-- [awesometrans 中文互助群](https://t.me/awesometrans_zh_group)
 - Backlight.Town 逆光小镇：联系 [@rikablossom](https://t.me/rikablossom) 加入
 
 ## Telegram 频道 {#telegram-channel}
 
-- [MtF.wiki 中文頻道](https://t.me/MtFwiki)
-- [Trans in Academia! Broadcast](https://t.me/transacademia)
-- [Trigger Project](https://t.me/RichardAndLotus)
-- [性别偏见与性别议题](https://t.me/daily_feminist)
+- [MtF.wiki 中文頻道](https://t.me/s/MtFwiki)
+- [Trans in Academia! Broadcast](https://t.me/s/transacademia)
+- [awesometrans 中文](https://t.me/s/awesometrans_zh)
+- [Trigger Project](https://t.me/s/RichardAndLotus)
+- [性别偏见与性别议题](https://t.me/s/daily_feminist)
 
 ## YouTube Channel {#youtube-channel}
 
-- [柑橘与百合 Citrus & Lilium](https://youtube.com/channel/UCgfr45LK6VTcuuMVBHsiNnQ)
+- [Project Trans](https://youtube.com/@project-trans)
+- [柑橘与百合 Citrus & Lilium](https://youtube.com/@citrusandlilium)
 
 ## ADHD/ASD {#adhd}
 
@@ -41,8 +42,6 @@ weight: 1000
 
 ## 组织机构 {#organization}
 
-- [跨儿心理小组](https://kuaerxinli.org)
-- [庄尼心理咨询中心](http://www.johnnycenter.com)
 - [LGBTQIA in China](https://github.com/LGBT-CN/LGBTQIA-In-China)
 
 ## 周边商品 {#shop}

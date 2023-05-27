@@ -43,7 +43,6 @@ weight: 7
 - 安大略彩虹健康项目——《[跨性别及性别多元化人群的初级性别肯定治疗指南](https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/)》 (2021) \[[PDF](https://rainbowhealth.wpenginepowered.com/wp-content/uploads/2021/06/Guidelines-FINAL-4TH-EDITION-c.pdf)]
 - Trans Care BC——《[初级治疗工具包：适用于不列颠哥伦比亚省的跨性别、双重人格及性别多元化人群的性别肯定治疗](http://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf)》 (2021)
 
-
-+ 芬威健康——《[跨性别及性别多元化人群的治疗](https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/)》 (2021) \[[PDF](https://www.lgbtqiahealtheducation.org/wp-content/uploads/2021/07/Medical-Care-of-Trans-and-Gender-Diverse-Adults-Spring-2021.pdf)]
-+ 加州大学旧金山分校——《[跨性别及非二元性别人群的初级性别肯定治疗指南](https://transcare.ucsf.edu/guidelines)》 (2016) \
+- 芬威健康——《[跨性别及性别多元化人群的治疗](https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/)》 (2021) \[[PDF](https://www.lgbtqiahealtheducation.org/wp-content/uploads/2021/07/Medical-Care-of-Trans-and-Gender-Diverse-Adults-Spring-2021.pdf)]
+- 加州大学旧金山分校——《[跨性别及非二元性别人群的初级性别肯定治疗指南](https://transcare.ucsf.edu/guidelines)》 (2016) \
   注：以上二者鲜少提及或反对醋酸环丙孕酮的使用（在美国未上市）。
