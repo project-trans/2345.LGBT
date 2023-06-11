@@ -19,6 +19,9 @@ links:
   - title: TransVoiceLessons
     tags: [Voice]
     url: https://www.youtube.com/@TransVoiceLessons
+  - title: Voice Tools by Azalea
+    tags: [Voice]
+    url: https://voice.hydev.org
   - title: r/mtf
     tags: [Community]
     url: https://www.reddit.com/r/mtf
