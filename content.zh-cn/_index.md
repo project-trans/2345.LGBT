@@ -25,9 +25,15 @@ links:
   - title: '@MtFwiki'
     tags: [MtF]
     url: https://twitter.com/MtFwiki
+  - title: '@MtFwiki@mastodon.social'
+    tags: [MtF]
+    url: https://mastodon.social/@MtFwiki
   - title: '@FtMwiki'
     tags: [FtM]
     url: https://twitter.com/FtMwiki
+  - title: '@FtMwiki@mastodon.social'
+    tags: [FtM]
+    url: https://mastodon.social/@FtMwiki
   - title: 这就是性别烦躁，供参考
     tags: [MtF, FtM]
     url: https://genderdysphoria.fyi/zh/
