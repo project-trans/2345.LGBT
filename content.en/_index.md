@@ -25,6 +25,9 @@ links:
   - title: r/mtf
     tags: [Community]
     url: https://www.reddit.com/r/mtf
+  - title: '!mtf@lemmy.blahaj.zone'
+    tags: [Community]
+    url: https://lemmy.blahaj.zone/c/mtf
   - title: r/ftm
     tags: [Community]
     url: https://www.reddit.com/r/ftm
