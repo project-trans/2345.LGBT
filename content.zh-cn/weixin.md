@@ -5,7 +5,6 @@ weight: 3
 modalbox: true
 ---
 
-- [船思]({{< weixin "thevoiceoftrans" >}})
 - [跨青年]({{< weixin "TSECC2017" >}})
 - [跨赛斯]({{< weixin "trans_0201" >}})
 - [跨儿说]({{< weixin "TransTalks" >}})
@@ -21,11 +20,7 @@ modalbox: true
 
 ## FtM
 
-- [飞天猫兄弟盟]({{< weixin "gh_bbdc988d3885" >}})
 - [FtM 兄弟]({{< weixin "FTM-family" >}})
-- [FtM 互助平台]({{< weixin "gh_6d87a169e588" >}})
-- [跨性别在爱尔兰]({{< weixin "gh_133e17a9486c" >}})
-- [阿四的 FtM 日记]({{< weixin "Alpha04xx" >}})
 - [一个 FtM 的日记本]({{< weixin "gh_510695287c55" >}})
 
 ## 女性性少数公益
@@ -37,4 +32,3 @@ modalbox: true
 ## 机构
 
 - [云南平行健康咨询发展中心]({{< weixin "ynpx087163379065" >}})
-- [同城青少年资源中心]({{< weixin "glcac-03" >}})
