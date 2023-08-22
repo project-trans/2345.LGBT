@@ -24,4 +24,4 @@ weight: 4
 
 - Fenway Health: [Medical Care of Trans and Gender Diverse Adults](https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/) (2021) \[[PDF](https://www.lgbtqiahealtheducation.org/wp-content/uploads/2021/07/Medical-Care-of-Trans-and-Gender-Diverse-Adults-Spring-2021.pdf)]
 - UCSF: [Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People](https://transcare.ucsf.edu/guidelines) (2016)\
-  *Note that cyproterone acetate (CPA), not marketed in the United States, was mentioned little or recommended against its use in Fenway Health and UCSF guidelines.*
+  _Note that cyproterone acetate (CPA), not marketed in the United States, was mentioned little or recommended against its use in Fenway Health and UCSF guidelines._
