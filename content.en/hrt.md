@@ -3,7 +3,7 @@ title: HRT
 weight: 1
 ---
 
-- [HRT.Cafe](https://hrt.coffee)
+- [hrt.coffee](https://hrt.coffee)
 - [DIY HRT](https://diyhrt.wiki)
 - [MtFHRT@groups.io](https://groups.io/g/MTFHRT)
 - [Transfeminine Science](https://transfemscience.org) - The original informative site on feminizing hormone therapy
