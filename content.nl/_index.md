@@ -11,63 +11,54 @@ links:
     tags: [Stem, Engels]
     url: https://www.youtube.com/@TransVoiceLessons
   - title: Voice Tools by Azalea
-    tags: [Voice]
+    tags: [Stem, Engels]
     url: https://voice.hydev.org
   - title: r/mtf
-    tags: [Community]
+    tags: [Gemeenschap, Engels]
     url: https://www.reddit.com/r/mtf
   - title: r/lhbti
-    tags: [Community]
+    tags: [Gemeenschap, NL]
     url: https://www.reddit.com/r/lhbti
-  - title: '!mtf@lemmy.blahaj.zone'
-    tags: [Community]
-    url: https://lemmy.blahaj.zone/c/mtf
+  - title: 'T-Nederland Forum'
+    tags: [Gemeenschap, NL]
+    url: https://t-nederland.nl/forum/index.php
   - title: r/ftm
-    tags: [Community]
+    tags: [Gemeenschap, Engels]
     url: https://www.reddit.com/r/ftm
   - title: r/TransWiki
-    tags: [Community]
+    tags: [Gemeenschap, Engels]
     url: https://www.reddit.com/r/TransWiki
   - title: r/Transgender_Surgeries
-    tags: [Community]
+    tags: [Gemeenschap, Engels]
     url: https://www.reddit.com/r/Transgender_Surgeries
   - title: TransGuys
-    tags: [Community]
+    tags: [Gemeenschap, Engels]
     url: https://transguys.com
   - title: Top Surgery Guide
-    tags: [FtM]
+    tags: [FtM, Engels]
     url: https://www.topsurgery.net
   - title: Hudson&rsquo;s FtM Resource Guide
-    tags: [FtM]
+    tags: [FtM, Engels]
     url: http://www.ftmguide.org
   - title: Geslachtsaanpassende operatie (MtF)
-    tags: [MtF, SRS]
+    tags: [MtF, NL]
     url: https://nl.wikipedia.org/wiki/Geslachtsaanpassende_operatie#Procedure_bij_transvrouwen_(MV,_MTF)
   - title: Feminizing hormone therapy
     tags: [MtF, HRT]
     url: https://en.wikipedia.org/wiki/Feminizing_hormone_therapy
   - title: Geslachtsaanpassende operatie (FtM)
-    tags: [FtM, SRS]
+    tags: [FtM, NL]
     url: https://nl.wikipedia.org/wiki/Geslachtsaanpassende_operatie#Procedure_bij_transmannen_(VM,_FTM)
-  - title: Masculinizing hormone therapy
-    tags: [FtM, HRT]
-    url: https://en.wikipedia.org/wiki/Masculinizing_hormone_therapy
-  - title: r/transgenderUK
-    tags: [General, UK]
-    url: https://www.reddit.com/r/transgenderUK
-  - title: 'r/transgenderUK: FAQ'
-    tags: [General, UK]
-    url: https://www.reddit.com/r/transgenderUK/comments/qt6jng
-  - title: Gender Construction Kit
-    tags: [General, UK]
-    urls: https://genderkit.org.uk
-  - title: Transition FtM UK
-    tags: [FtM, UK]
-    urls: https://transitionftmuk.co.uk
+  - title: r/transgenderNL
+    tags: [Algemeen, NL]
+    url: https://www.reddit.com/r/transgenderNL
+  - title: 'r/NL: Fitting in'
+    tags: [Algemeen, Engels]
+    url: https://www.reddit.com/r/thenetherlands/comments/mywnhb/comment/gvxxxr3/
   - title: Trans in Academia!
-    tags: [General]
+    tags: [Algemeen]
     url: https://transacademic.org
   - title: Transgender University Guidance
-    tags: [General]
+    tags: [Algemeen]
     url: https://uniguide.transacademic.org
 ---
