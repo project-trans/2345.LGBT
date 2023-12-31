@@ -19,3 +19,9 @@ weight: 3
 - [Gender Analysis](https://genderanalysis.net)
 - [Gender Spectrum](http://www.genderspectrum.org)
 - [Sylvia Rivera Law Project](https://srlp.org)
+
+## Netherlands
+
+- [Transvisie](https://transvisie.nl/information/)
+- [T-Nederland](https://t-nederland.nl/) (Dutch)
+- [Transgender Netwerk](https://www.transgendernetwerk.nl/) (Dutch)
