@@ -69,3 +69,8 @@ languages:
     languageName: English
     timeZone: UTC
     weight: 5
+  nl:
+    contentDir: content.nl
+    languageName: Nederlands
+    timeZone: Europe/Amsterdam
+    weight: 6
