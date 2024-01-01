@@ -67,7 +67,7 @@ links:
   - title: Gender Construction Kit
     tags: [General, UK]
     urls: https://genderkit.org.uk
-  - title: Transintion FtM UK
+  - title: Transition FtM UK
     tags: [FtM, UK]
     urls: https://transitionftmuk.co.uk
   - title: Trans in Academia!
