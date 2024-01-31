@@ -18,3 +18,4 @@ weight: 1
 ## 文章
 
 - [医保开 HRT 药物流程](https://zhuanlan.zhihu.com/p/387187000) (<https://archive.is/vU33l>)
+- [雌二醇凝胶自制教程](https://KasuganoHaruku.github.io/MtF-Certificate/)
