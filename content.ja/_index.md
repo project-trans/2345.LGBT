@@ -38,4 +38,7 @@ links:
   - title: 日本 GID/GD と共に生きる人々の会
     tags: [未分類]
     url: https://gid.jp
+  - title: GID治療院一覧（ホルモン治療）
+    tags: [Map]
+    url: https://g-pit.com/gidclinics/
 ---
