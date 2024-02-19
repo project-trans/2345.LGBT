@@ -68,7 +68,6 @@ $padding: 0.5em;
   background-image: linear-gradient(to right, #fff, #fff), linear-gradient(135deg, #E4A8CA 20%, #2D8AFB 20%); //渐变的颜色使用了logo的颜色 相同的角度 硬边渐变 还好我是学数字媒体的
   // 上方四行实现了渐变, 参考https://segmentfault.com/a/1190000040794056
   border-radius: 1em;
-  background: transparent;
   &::before {
     position: absolute;
     left: 1em;
