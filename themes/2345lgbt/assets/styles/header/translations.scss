@@ -61,9 +61,13 @@ $padding: 0.5em;
   text-align: left;
 
   color: #49454f;
-  border: $padding-1 solid #79747e;
+  border: $padding-translations solid transparent;
+  // The lower three rows realize the gradient border, reference https://segmentfault.com/a/1190000040794056
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+  background-image: linear-gradient(to right, #fff, #fff), linear-gradient(135deg, #E4A8CA 20%, #2D8AFB 20%); 
+  //gravity uses the color of the logo using hard side gradients at the same angle
   border-radius: 1em;
-  background: transparent;
   &::before {
     position: absolute;
     left: 1em;
