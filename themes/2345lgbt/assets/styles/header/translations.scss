@@ -61,12 +61,12 @@ $padding: 0.5em;
   text-align: left;
 
   color: #49454f;
-  //border: $padding-1 solid #79747e; //因为$padding-1参数(themes/2345lgbt/assets/_variables.scss)同时控制着主要部分卡片的边框粗细, 所以此处无法使用
-  border: $padding-translations solid transparent; //0.1875是0.0625(也就是2024Feb18的$padding-1值)的三倍
+  border: $padding-translations solid transparent;
+  // The lower three rows realize the gradient border, reference https://segmentfault.com/a/1190000040794056
   background-clip: padding-box, border-box;
   background-origin: padding-box, border-box;
-  background-image: linear-gradient(to right, #fff, #fff), linear-gradient(135deg, #E4A8CA 20%, #2D8AFB 20%); //渐变的颜色使用了logo的颜色 相同的角度 硬边渐变 还好我是学数字媒体的
-  // 上方四行实现了渐变, 参考https://segmentfault.com/a/1190000040794056
+  background-image: linear-gradient(to right, #fff, #fff), linear-gradient(135deg, #E4A8CA 20%, #2D8AFB 20%); 
+  //gravity uses the color of the logo using hard side gradients at the same angle
   border-radius: 1em;
   &::before {
     position: absolute;
