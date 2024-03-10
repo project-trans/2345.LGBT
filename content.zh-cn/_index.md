@@ -67,4 +67,7 @@ links:
   - title: Transman Helper
     tags: [社区]
     url: https://www.transmanhelper.com
+  - title: KnowSex
+    tags: [性]
+    url: https://knowsex.net/
 ---
