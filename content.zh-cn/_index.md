@@ -46,6 +46,9 @@ links:
   - title: awesome trans
     tags: [MtF, FtM]
     url: https://awesometrans.github.io/awesometrans_zh/
+  - title: 生如夏花
+    tags: [社区, 性]
+    url: https://viva-la-vita.org/
   - title: 那些秋叶
     tags: [社区]
     url: https://one-among.us
@@ -64,4 +67,7 @@ links:
   - title: Transman Helper
     tags: [社区]
     url: https://www.transmanhelper.com
+  - title: KnowSex
+    tags: [性]
+    url: https://knowsex.net/
 ---
