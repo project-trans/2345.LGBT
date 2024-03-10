@@ -76,4 +76,7 @@ links:
   - title: Transgender University Guidance
     tags: [General]
     url: https://uniguide.transacademic.org
+  - title: Gender Analysis
+    tags: [General]
+    url: https://genderanalysis.net/
 ---
