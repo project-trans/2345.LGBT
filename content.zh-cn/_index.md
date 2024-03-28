@@ -16,9 +16,9 @@ featured:
   - title: RLE.wiki
     url: https://rle.wiki
 links:
-  - title: MtF.wiki Blog
-    tags: [MtF]
-    url: https://blog.mtf.wiki
+  - title: Project Trans Blog
+    tags: [MtF, FtM]
+    url: https://blog.project-trans.org
   - title: MtF.wiki TFSci
     tags: [MtF]
     url: https://tfsci.mtf.wiki
