@@ -7,7 +7,7 @@ weight: 4
 
 ## 小说 {#novel}
 
-- [药娘的天空](https://proskynova.github.io) (2016)\
+- [药娘的天空](https://transky.mtf.wiki) (2016)\
   乱世银娘，中国
 
 ## 电影 {#movie}
