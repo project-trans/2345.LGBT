@@ -52,6 +52,9 @@ links:
   - title: 那些秋叶
     tags: [社区]
     url: https://one-among.us
+  - title: 跨性别学术小组
+    tags: [社区]
+    url: https://oau.edu.kg/
   - title: MtF.wiki Official
     tags: [社区]
     url: https://link.mtf.wiki/discord
