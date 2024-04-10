@@ -14,7 +14,7 @@
       </nav>
       {{- if .Page.IsHome }}
       <section class="translations">
-        <button>{{ .Language.LanguageCode }}</button>
+        <button>{{ .Site.Params.ShortName }}</button>
         <nav>
           {{- range .Site.Home.AllTranslations }}
           <a href="{{ .RelPermalink }}" data-active="{{ eq $currentLanguage .Language }}">{{ .Language.LanguageName }}</a>
