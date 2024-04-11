@@ -13,18 +13,14 @@ $padding: 0.5em;
       display: flex;
     }
     button {
-      cursor: pointer;
-
       border-bottom-color: transparent;
-      border-bottom-left-radius: 0;
-      border-bottom-right-radius: 0;
     }
   }
 }
 
 .translations nav {
   position: absolute;
-  top: 100%;
+  top: calc(100% + 8px);
 
   display: none;
   flex-direction: column;
@@ -33,14 +29,13 @@ $padding: 0.5em;
   padding: $padding $padding 0 $padding-right;
 
   border: $padding-1 solid #79747e;
-  border-top: none;
-  border-bottom-left-radius: 1em;
-  border-bottom-right-radius: 1em;
+  border-radius: 1em;
   background: #fff;
   a {
     line-height: 1.5;
 
     text-decoration: none;
+    white-space: nowrap;
 
     color: $link-inactive;
 
@@ -65,9 +60,11 @@ $padding: 0.5em;
   // The lower three rows realize the gradient border, reference https://segmentfault.com/a/1190000040794056
   background-clip: padding-box, border-box;
   background-origin: padding-box, border-box;
-  background-image: linear-gradient(to right, #fff, #fff), linear-gradient(135deg, #E4A8CA 20%, #2D8AFB 20%); 
+  background-image: linear-gradient(to right, #fff, #fff), linear-gradient(135deg, #e4a8ca 20%, #2d8afb 20%);
   //gravity uses the color of the logo using hard side gradients at the same angle
   border-radius: 1em;
+  cursor: pointer;
+
   &::before {
     position: absolute;
     left: 1em;
@@ -80,5 +77,19 @@ $padding: 0.5em;
     content: '';
 
     background: url(icons/global.svg) no-repeat center;
+  }
+}
+
+@media (max-width: 768px) {
+  .translations {
+    width: fit-content;
+  }
+}
+
+@media (max-width: 768px) {
+  .translations nav {
+    padding: 1em 1em;
+    min-width: fit-content;
+    right: 0;
   }
 }
