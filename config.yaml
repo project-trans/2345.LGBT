@@ -45,21 +45,29 @@ languages:
   zh-cn:
     contentDir: content.zh-cn
     languageName: 中国大陆（简体）
+    params:
+      shortName: CN
     timeZone: Asia/Shanghai
     weight: 1
   zh-hk:
     contentDir: content.zh-hk
     languageName: 香港（繁體）
+    params:
+      shortName: HK
     timeZone: Asia/Hong_Kong
     weight: 2
   zh-tw:
     contentDir: content.zh-tw
     languageName: 臺灣（正體）
+    params:
+      shortName: TW
     timeZone: Asia/Taipei
     weight: 3
   ja:
     contentDir: content.ja
     languageName: 日本（日本語）
+    params:
+      shortName: JP
     timeZone: Asia/Tokyo
     weight: 4
     social:
@@ -67,10 +75,14 @@ languages:
   en:
     contentDir: content.en
     languageName: English
+    params:
+      shortName: EN
     timeZone: UTC
     weight: 5
   nl:
     contentDir: content.nl
     languageName: Nederlands
+    params:
+      shortName: NL
     timeZone: Europe/Amsterdam
     weight: 6

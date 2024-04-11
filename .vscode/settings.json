@@ -1,8 +1,8 @@
 {
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-	"source.fixAll": "explicit"
-},
+    "source.fixAll": "explicit"
+  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "files.associations": {
     "CODEOWNERS": "plaintext",
@@ -11,5 +11,8 @@
   },
   "search.exclude": {
     "**/vendor": true
-  }
+  },
+  "i18n-ally.localesPaths": [
+    "themes/2345lgbt/i18n"
+  ]
 }
