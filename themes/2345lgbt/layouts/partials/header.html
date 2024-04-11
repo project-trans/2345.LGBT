@@ -17,7 +17,8 @@
         <button>{{ .Site.Params.ShortName }}</button>
         <nav>
           {{- range .Site.Home.AllTranslations }}
-          <a href="{{ .RelPermalink }}" data-active="{{ eq $currentLanguage .Language }}">{{ .Language.LanguageName }}</a>
+          <a href="{{ .RelPermalink }}" data-active="{{ eq $currentLanguage .Language }}">{{ .Language.LanguageName
+            }}</a>
           {{- end }}
         </nav>
       </section>
@@ -25,7 +26,8 @@
     </section>
     <section class="categories" hidden>
       <nav>
-        <a href="{{ .Site.Home.RelPermalink }}" data-active="{{ eq $currentPage .Site.Home }}">{{ .Site.Home.Title }}</a>
+        <a href="{{ .Site.Home.RelPermalink }}" data-active="{{ eq $currentPage .Site.Home }}">{{ .Site.Home.Title
+          }}</a>
         {{- range $page := .Site.Pages.ByWeight }}
         {{- if $page.IsHome }}{{ continue }}{{ end }}
         <a href="{{ $page.RelPermalink }}" data-active="{{ eq $currentPage $page }}">{{ $page.Title }}</a>
