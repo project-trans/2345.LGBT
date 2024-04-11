@@ -1,9 +1,6 @@
 # https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
-* @project-trans/editors
+* @project-trans/chairs
 
 # Theme Maintainer by @septs
-/themes/2345lgbt @septs
-
-# P.R.C Maintainer by Editor Workgroup
-/content.zh-cn/* @project-trans/mtfwiki-cn-editors
+/themes/2345lgbt @septs @project-trans/developers
