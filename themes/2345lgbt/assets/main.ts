@@ -63,14 +63,16 @@ $(document).on('click', 'main.homepage .container.tags button', (event) => {
   }
 })
 
-$(document).on('click', '.translations button', (event) => {
-  $(event.target).parent().toggleClass('active')
+const translateButton = $('.translations button')
+
+translateButton.on('click', (event) => {
+  translateButton.parent().toggleClass('active')
   event.stopPropagation()
 })
 
 $(document).on('click', (event) => {
   if (!$(event.target).is('.translations button')) {
-    $('.translations button').parent().removeClass('active')
+    translateButton.parent().removeClass('active')
   }
 })
 
