@@ -55,12 +55,9 @@ links:
   - title: 跨性别学术小组
     tags: [社区]
     url: https://oau.edu.kg/
-  - title: MtF.wiki Official
+  - title: Project Trans Community
     tags: [社区]
     url: https://link.mtf.wiki/discord
-  - title: FtM.wiki Official
-    tags: [社区]
-    url: https://link.ftm.wiki/discord
   - title: r/mtf_zh
     tags: [社区]
     url: https://www.reddit.com/r/mtf_zh
