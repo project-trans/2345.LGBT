@@ -32,7 +32,7 @@ weight: 1000
 
 ## 声音训练 {#voice-training}
 
-- [成为女孩子的声音！](https://project-trans.github.io/jyosei-guide/)
+- [成为女孩子的声音！](https://vocal.mtf.wiki/)
 
 ## Kigurumi {#kigurumi}
 
