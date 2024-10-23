@@ -54,7 +54,7 @@ links:
     url: https://one-among.us
   - title: 跨性别学术小组
     tags: [社区]
-    url: https://oau.edu.kg/
+    url: https://transinacademia.org/
   - title: Project Trans Community
     tags: [社区]
     url: https://link.mtf.wiki/discord
