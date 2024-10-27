@@ -12,6 +12,8 @@ weight: 4
 
 ## 电影 {#movie}
 
+- [晓迪](https://movie.douban.com/subject/35465019/) (2021)\
+  中国
 - [逃离](https://www.bilibili.com/video/BV1Dx411b7wU/) (2017)\
   中国
 - [有性无别](https://movie.douban.com/subject/26954005/) (2016)\
