@@ -6,7 +6,7 @@ slogan: '{{< brand >}} Transgender Navigation'
 links:
   - title: Trans in Academia!
     tags: [General]
-    url: https://oau.edu.kg/
+    url: https://transinacademia.org/
   - title: That's Gender Dysphoria, FYI
     tags: [General]
     url: https://genderdysphoria.fyi/en/
