@@ -11,9 +11,9 @@
 {{- end }}
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ .Description | default (cond .IsPage .Summary .Site.Params.description) }}">
-{{- with .Site.Social.twitter }}
+{{- with .Site.Params.twitter }}
 <meta name="twitter:site" content="@{{ . }}">
 {{- end }}
-{{- with .Site.Social.twitterCreator }}
+{{- with .Site.Params.twitterCreator }}
 <meta name="twitter:creator" content="@{{ . }}">
 {{- end }}
