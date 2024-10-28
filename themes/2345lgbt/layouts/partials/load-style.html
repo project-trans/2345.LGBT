@@ -1,3 +1,3 @@
 {{- $options := (dict "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction)) -}}
-{{- $resource := resources.Get . | resources.ToCSS $options | minify | fingerprint -}}
+{{- $resource := resources.Get . | css.Sass $options | minify | fingerprint -}}
 <link rel="stylesheet" href="{{ $resource.RelPermalink }}" as="stylesheet">

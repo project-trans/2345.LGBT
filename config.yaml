@@ -21,16 +21,14 @@ uglyURLs: true
 
 params:
   repoURL: https://github.com/project-trans/2345.LGBT
+  twitter: MtFwiki
+  twitterCreator: MtFwiki
   # contentSecurityPolicy: >-
   #   default-src 'self';
   #   img-src 'self' https://*;
   #   style-src 'self' 'unsafe-inline';
   #   script-src 'self' static.cloudflareinsights.com;
   #   connect-src 'self' cloudflareinsights.com;
-
-social:
-  twitter: MtFwiki
-  twitterCreator: MtFwiki
 
 module:
   hugoVersion:
