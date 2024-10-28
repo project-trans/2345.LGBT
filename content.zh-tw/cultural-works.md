@@ -3,7 +3,7 @@ title: 影視文化作品
 weight: 2
 ---
 
-## 电影 {#movie}
+## 電影 {#movie}
 
 - [迷失安狄](https://zh.wikipedia.org/wiki/%E8%BF%B7%E5%A4%B1%E5%AE%89%E7%8B%84)(2020)
 
