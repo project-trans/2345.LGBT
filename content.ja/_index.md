@@ -1,8 +1,8 @@
 ---
 title: サイト
-description: Transgender Navigation
+description: トランスジェンダーのポータル
 brand: '{{< brand >}}'
-slogan: '{{< brand >}} Transgender Navigation'
+slogan: '{{< brand >}} トランスジェンダーのポータル'
 featured:
   - title: MtF.wiki
     url: https://mtf.wiki/ja/

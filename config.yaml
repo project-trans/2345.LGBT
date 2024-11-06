@@ -41,6 +41,7 @@ markup:
 
 languages:
   zh-cn:
+    title: 2345.LGBT 跨性别导航
     contentDir: content.zh-cn
     languageName: 中国大陆（简体）
     params:
@@ -48,6 +49,7 @@ languages:
     timeZone: Asia/Shanghai
     weight: 1
   zh-hk:
+    title: 2345.LGBT 跨性別導航
     contentDir: content.zh-hk
     languageName: 香港（繁體）
     params:
@@ -55,6 +57,7 @@ languages:
     timeZone: Asia/Hong_Kong
     weight: 2
   zh-tw:
+    title: 2345.LGBT 跨性別導航
     contentDir: content.zh-tw
     languageName: 臺灣（正體）
     params:
@@ -62,6 +65,7 @@ languages:
     timeZone: Asia/Taipei
     weight: 3
   ja:
+    title: 2345.LGBT トランスジェンダーのポータル
     contentDir: content.ja
     languageName: 日本（日本語）
     params:
@@ -71,6 +75,7 @@ languages:
     social:
       twitter: MtFwikiJapan
   en:
+    title: Awesome Trans - Transgender Portal
     contentDir: content.en
     languageName: English
     params:
@@ -78,6 +83,7 @@ languages:
     timeZone: UTC
     weight: 5
   nl:
+    title: Awesome Trans - Transgender Portaal
     contentDir: content.nl
     languageName: Nederlands
     params:

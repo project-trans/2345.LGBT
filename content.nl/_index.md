@@ -1,8 +1,8 @@
 ---
 title: Websites
-description: Transgender Navigatie
+description: Awesome Trans - Transgender Portaal
 brand: '{{< brand >}}'
-slogan: '{{< brand >}} Transgender Navigatie'
+slogan: '{{< brand >}} Awesome Trans'
 links:
   - title: Transgender Kaart
     tags: [Algemeen]

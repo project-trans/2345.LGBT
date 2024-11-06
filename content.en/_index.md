@@ -1,8 +1,8 @@
 ---
 title: Websites
-description: Transgender Navigation
+description: Awesome Trans - Transgender Portal
 brand: '{{< brand >}}'
-slogan: '{{< brand >}} Transgender Navigation'
+slogan: '{{< brand >}} Awesome Trans'
 links:
   - title: Trans in Academia!
     tags: [General]
