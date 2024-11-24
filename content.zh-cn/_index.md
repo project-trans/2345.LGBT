@@ -70,4 +70,7 @@ links:
   - title: KnowSex
     tags: [性]
     url: https://knowsex.net/
+  - title: One Among Us 社群
+    tags: [社区]
+    url: https://oneamongus.ca
 ---
