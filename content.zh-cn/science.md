@@ -46,3 +46,7 @@ weight: 7
 - 芬威健康——《[跨性别及性别多元化人群的治疗](https://www.lgbtqiahealtheducation.org/publication/medical-care-of-trans-and-gender-diverse-adults-2021/)》 (2021) \[[PDF](https://www.lgbtqiahealtheducation.org/wp-content/uploads/2021/07/Medical-Care-of-Trans-and-Gender-Diverse-Adults-Spring-2021.pdf)]
 - 加州大学旧金山分校——《[跨性别及非二元性别人群的初级性别肯定治疗指南](https://transcare.ucsf.edu/guidelines)》 (2016) \
   注：以上二者鲜少提及或反对醋酸环丙孕酮的使用（在美国未上市）。
+
+## 更多相关学术文献
+
+- [跨性别与多元性别中文图书馆 - 学术文献存档](https://digital.transchinese.org/%E5%AD%A6%E6%9C%AF%E6%96%87%E7%8C%AE/)

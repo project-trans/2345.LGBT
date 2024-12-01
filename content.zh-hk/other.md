@@ -13,6 +13,7 @@ weight: 1000
 - [平等機會委員會](https://www.eoc.org.hk)
 - [香港跨性別法律資料庫](https://www.hktranslawdb.org)
 - [Transgender Resources Center](https://tgr.org.hk)
+- [多元性別中文數位圖書館](https://transchinese.org/)
 
 ## 影視文化作品 {#cultural-works}
 

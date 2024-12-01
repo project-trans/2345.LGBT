@@ -9,3 +9,4 @@ weight: 2
 - [台灣基地協會](https://www.gdi.org.tw)
 - [風城部屋](http://www.gisneyland.org)
 - [中華民國偽娘交流協會](https://twitter.com/ROC_TG_Society)（商業組織）
+- [多元性別中文數位圖書館](https://transchinese.org/)
