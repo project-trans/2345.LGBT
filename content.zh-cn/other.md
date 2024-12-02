@@ -29,6 +29,7 @@ weight: 1000
 
 - [生如夏花](https://bbs.viva-la-vita.org)
 - [生如夏花·知识库](https://wiki.viva-la-vita.org)
+- [跨性别与多元性別档案库 - 生活与性体验](https://digital.transchinese.org/%E7%A4%BE%E7%BE%A4%E5%8F%8ANGO%E6%96%87%E4%BB%B6/%E7%94%9F%E6%B4%BB%E4%B8%8E%E6%80%A7%E4%BD%93%E9%AA%8C/)
 
 ## 声音训练 {#voice-training}
 
@@ -43,6 +44,7 @@ weight: 1000
 ## 组织机构 {#organization}
 
 - [LGBTQIA in China](https://github.com/LGBT-CN/LGBTQIA-In-China)
+- [多元性別中文数字图书馆](https://transchinese.org/)
 
 ## 周边商品 {#shop}
 

@@ -9,6 +9,7 @@ weight: 4
 
 - [药娘的天空](https://transky.mtf.wiki) (2016)\
   乱世银娘，中国
+- [变身文学与性转小说存档](https://transchinese.org/projects)
 
 ## 电影 {#movie}
 
