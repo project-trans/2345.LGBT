@@ -1,6 +1,2 @@
 User-agent: *
-{{- if strings.Contains .Site.BaseURL "2345.lgbt" }}
 Sitemap: {{ absURL "sitemap.xml" }}
-{{- else }}
-Disallow: /
-{{- end }}
