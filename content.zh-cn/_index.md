@@ -76,4 +76,7 @@ links:
   - title: 多元性别中文数字图书馆
     tags: [社区]
     url: https://transchinese.org
+  - title: 跨性别相关知识科普站
+    tags: [MtF, FtM]
+    url: https://aboutrans.info/
 ---
