@@ -79,4 +79,7 @@ links:
   - title: 跨性别相关知识科普站
     tags: [MtF, FtM]
     url: https://aboutrans.info/
+  - title: 星语铭
+    tags: [社区]
+    url: https://engrave.ren/
 ---
