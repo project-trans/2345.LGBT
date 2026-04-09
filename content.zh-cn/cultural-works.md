@@ -40,3 +40,4 @@ weight: 4
 - [A YEAR OF SPRINGS](https://store.steampowered.com/app/1688580) (2021)
 - [恋爱绮谭～不存在的夏天～](https://store.steampowered.com/app/1345740) (2020)
 - [恋爱绮谭～不存在的真相～](https://store.steampowered.com/app/1777430) (2022)
+- [森灵之心](https://store.steampowered.com/app/844660/Heart_of_the_Woods/)（2019）
