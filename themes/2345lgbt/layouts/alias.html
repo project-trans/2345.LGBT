@@ -6,26 +6,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1,  maximum-scale=1, user-scalable=no">
 <link href="{{ $canonical }}" rel="canonical">
-{{- if $page.IsHome }}
-<script>
-(() => {
-  const normalize = (path) => path.replace(/\/+$/, "") || "/";
-  const canonical = new URL(`{{ $canonical }}`, window.location.href);
-  if (normalize(window.location.pathname) !== normalize(canonical.pathname)) {
-    window.location.replace(canonical.href);
-    return;
-  }
-  window.__renderAliasHome = true;
-})();
-</script>
-<style>
-  #alias-home[hidden] {
-    display: none;
-  }
-</style>
-{{- else }}
-<meta http-equiv="refresh" content="0; url={{ $canonical }}">
-{{- end }}
 {{- with $page.Site.Params.contentSecurityPolicy }}
 <meta http-equiv="content-security-policy" content="{{ . }}">
 {{- end }}
