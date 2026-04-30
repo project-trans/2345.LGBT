@@ -8,7 +8,7 @@ copyright: |-
   Copyright &copy; #YEAR# [Project Trans](https://project-trans.org/).
   Theme [LGPLv3](https://github.com/project-trans/2345.LGBT/blob/main/LICENSE),
   Content [CC 0](https://creativecommons.org/share-your-work/public-domain/cc0/).
-disableKinds: [taxonomy, term, RSS]
+disableKinds: [ taxonomy, term, RSS ]
 disableHugoGeneratorInject: true
 
 languageCode: zh-cn
@@ -16,6 +16,7 @@ enableRobotsTXT: true
 enableGitInfo: true
 defaultContentLanguage: zh-cn
 defaultContentLanguageInSubdir: true
+disableDefaultLanguageRedirect: true
 
 uglyURLs: true
 
