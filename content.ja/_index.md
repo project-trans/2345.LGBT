@@ -41,4 +41,13 @@ links:
   - title: GID治療院一覧（ホルモン治療）
     tags: [Map]
     url: https://g-pit.com/gidclinics/
+  - title: FTMのための情報note
+    tags: [FtM, Blog]
+    url: https://note.com/ftm_info
+  - title: 大阪府 FTM テストステロン注射可能病院一覧
+    tags: [FtM, HRT, Maps]
+    url: https://note.com/ftm_info/n/n942b73da9c73
+  - title: K.G. Rainbow Week（関西学院大学）
+    tags: [Event]
+    url: https://kgrainbowweek.com/
 ---
