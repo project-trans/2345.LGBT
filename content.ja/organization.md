@@ -19,6 +19,35 @@ weight: 3
 - [日本 GID/GD と共に生きる人々の会](https://gid.jp)
 - [LIBERTY（性別不合当事者会）](https://gid-liberty.com/)
 
+## コミュニティセンター・地域団体
+
+### 北海道・東北
+
+- [NPO法人 北海道レインボー・リソースセンター L-Port（札幌）](https://l-port.net/)
+- [さっぽろレインボープライド](https://www.sprrainbowpride.com/)
+
+### 関東
+
+- [プライドハウス東京レガシー](https://pridehouse.jp/)
+- [NPO法人 SHIP（横浜）](https://ship.or.jp/)
+- [SHIPにじいろキャビン（横浜）](https://ship.or.jp/cabin/)
+
+### 中部
+
+- [特定非営利活動法人 PROUD LIFE（名古屋）](https://proudlife.org/)
+- [名古屋レインボープライド](https://nagoyarainbowpride.com/)
+- [レインボーなごや](https://rainbow758.wixsite.com/rainbow-nagoya)
+
+### 関西
+
+- [プライドセンター大阪](https://pridecenter.jp/)
+- [NPO法人 QWRC（大阪）](https://qwrc.org/)
+- [関西クィア映画祭](https://ja.wikipedia.org/wiki/関西クィア映画祭)
+
+### 九州・沖縄
+
+- [ピンクドット沖縄](https://pinkdot-okinawa.com/)
+
 ## 大学サークル
 
 ### 関西
