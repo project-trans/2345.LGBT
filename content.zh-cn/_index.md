@@ -79,4 +79,19 @@ links:
   - title: 跨性别相关知识科普站
     tags: [MtF, FtM]
     url: https://aboutrans.info/
+  - title: SOGI 法政策研究会（韩国）
+    tags: [社区, 韩国]
+    url: https://sogilaw.org/
+  - title: 跨性别人权团体 片片布 Jogakbo（韩国）
+    tags: [社区, 韩国]
+    url: https://transgender.or.kr/
+  - title: 行动中性少数者人权连带（韩国）
+    tags: [社区, 韩国]
+    url: https://lgbtpride.or.kr/
+  - title: TransHealthCare — 韩国医师目录
+    tags: [MtF, SRS, 韩国]
+    url: https://www.transhealthcare.org/south-korea/
+  - title: Transgender Map — 韩国
+    tags: [MtF, SRS, 韩国]
+    url: https://www.transgendermap.com/guidance/medical/surgery/south-korea/
 ---

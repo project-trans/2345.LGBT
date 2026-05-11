@@ -85,4 +85,22 @@ links:
   - title: One Among Us Transgender Support
     tags: [Community]
     url: https://oneamongus.ca
+  - title: SOGI Law & Policy Research Group (Korea)
+    tags: [General, Korea]
+    url: https://sogilaw.org/
+  - title: Jogakbo — Trans Human Rights Group (Korea)
+    tags: [Community, Korea]
+    url: https://transgender.or.kr/
+  - title: Solidarity for LGBT Human Rights of Korea
+    tags: [Community, Korea]
+    url: https://lgbtpride.or.kr/
+  - title: Trans Liberation Front (Korea)
+    tags: [Community, Korea]
+    url: https://femiwiki.com/w/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%95%B4%EB%B0%A9%EC%A0%84%EC%84%A0
+  - title: TransHealthCare — Korea Surgeons
+    tags: [MtF, SRS, Korea]
+    url: https://www.transhealthcare.org/south-korea/
+  - title: Transgender Map — South Korea
+    tags: [MtF, SRS, Korea]
+    url: https://www.transgendermap.com/guidance/medical/surgery/south-korea/
 ---
