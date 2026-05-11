@@ -14,6 +14,12 @@ links:
   - title: MtF 情報発信サイト
     tags: [Blog]
     url: https://joseika.com
+  - title: 乙女塾
+    tags: [MtF]
+    url: https://otomejuku.jp/
+  - title: LGBTER — Transgender(MtF) 記事一覧
+    tags: [MtF, Blog]
+    url: https://lgbter.jp/noise_cat/mtf/
   - title: スザンヌみさき公式ブログ
     tags: [Blog]
     url: http://naowasada.xsrv.jp
