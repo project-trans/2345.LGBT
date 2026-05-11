@@ -10,6 +10,8 @@ weight: 1
 ## 映画 {#eiga}
 
 - [彼らが本気で編むときは、](https://ja.wikipedia.org/wiki/彼らが本気で編むときは、) (2017)
+- [映画 先輩はおとこのこ あめのち晴れ](https://senpaiha-otokonoko.com/) (2025)
+- [となりのとらんす少女ちゃん（実写）](https://motion-gallery.net/projects/tonatoramovie) (2026)
 
 ## 漫画 {#manga}
 
@@ -22,6 +24,7 @@ weight: 1
 - [不可解なぼくのすべてを](https://comic.pixiv.net/works/5315) (2018)
 - [オレが私になるまで](https://ja.wikipedia.org/wiki/オレが私になるまで) (2019)
 - [先輩はおとこのこ](https://ja.wikipedia.org/wiki/先輩はおとこのこ) (2019)
+- [となりのとらんす少女ちゃん](https://www.amazon.co.jp/dp/4991392004) (2024)
 
 ## 小説 {#shosetsu}
 
@@ -37,6 +40,7 @@ weight: 1
 
 - [放浪息子](https://ja.wikipedia.org/wiki/放浪息子) (2011)
 - [Back Street Girls](https://ja.wikipedia.org/wiki/Back_Street_Girls) (2018)
+- [先輩はおとこのこ](https://ja.wikipedia.org/wiki/先輩はおとこのこ) (2024)
 
 ## ゲーム {#games}
 
