@@ -31,7 +31,7 @@ weight: 5
 - [伴您同行：专为跨性别儿童的父母准备的指南](https://www.congregaytion.com/ill-walk-with-you/zh) (2022)
 - [LGBTI 包容指数拟议指标](https://www.undp.org/publications/lgbti-index) (2019)
 - [促进 LGBTI 人权和包容: 议员手册](https://www.undp.org/zh/china/publications/促进lgbti人权和包容-议员手册) (2017)
-- [应对“扭转治疗”手册](https://www.youguiwujia.com/download-yingduiniuzhuanzhiliaoshouce-ch)
+- [应对“扭转治疗”手册](https://cnlgbtdata.com/files/uploads/2023/06/%E5%BA%94%E5%AF%B9%E6%89%AD%E8%BD%AC%E6%B2%BB%E7%96%97%E6%89%8B%E5%86%8C_01_01_23.pdf)
 - [跨性别女性的评估和管理](https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management)
 - [跨性别男性的评估与管理](https://www.uptodate.com/contents/zh-Hans/transgender-men-evaluation-and-management)
 - [跨性别男性的医疗保健医护人员指南](https://www.nickgorton.org/2021/01/17/medical-therapy-and-health-maintenance-for-transgender-men/)（英文）
