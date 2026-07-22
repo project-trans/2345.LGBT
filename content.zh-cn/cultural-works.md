@@ -30,7 +30,11 @@ weight: 4
 - [เคยรักฉันจริงๆหรือเปล่า](https://youtube.com/watch?v=JPvI3FD891g) (你真的爱过我吗) - Zee
 - [写给社交恐惧症的一首歌](https://zh.moegirl.org.cn/zh-hans/写给社交恐惧症的一首歌) - 迁梦 / 洛天依
 - [可是我还没有来得及死去](https://zh.moegirl.org.cn/zh-hans/可是我还没有来得及死去) - MEGA 氏 / 星尘
-- [寫給妳的話](https://youtube.com/playlist?list=PLtzYDwd776n8vFb-Km76PSICFh66WcXMe)
+- [写给你的话](https://youtube.com/playlist?list=PLtzYDwd776n8vFb-Km76PSICFh66WcXMe)
+- [星空](https://music.youtube.com/playlist?list=OLAK5uy_nZ1JzGNTlO0bwEiSmeT-pX89ixo_IACwA) - SIACONE 2023 TDoR Special Album
+- [布满星光的小道](https://music.youtube.com/playlist?list=OLAK5uy_l5J7G-julo9m4FJIgaMy_LJYyH42c-uBI) - SIACONE 2024 TDoR Special Album
+- [虹湾海](https://music.youtube.com/playlist?list=OLAK5uy_kkvSKB1MMz8Btw3gi8sOKY0LCjdIMruh4) - SIACONE 2025 TDoR Special Album
+- [我们都改变了](https://music.youtube.com/playlist?list=OLAK5uy_mlkklsNHTjBHc29JQYcvQnXMUsxm8pwHc) - SIACONE 2026 TDoV Special Song
 
 ## 游戏 {#gaming}
 
