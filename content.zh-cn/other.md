@@ -45,6 +45,7 @@ weight: 1000
 
 - [LGBTQIA in China](https://github.com/LGBT-CN/LGBTQIA-In-China)
 - [多元性別中文数字图书馆](https://transchinese.org/)
+- [KiraMyao Equal](https://kiramyao.com/)
 
 ## 周边商品 {#shop}
 

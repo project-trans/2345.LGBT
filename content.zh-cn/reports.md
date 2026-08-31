@@ -6,6 +6,7 @@ weight: 5
 
 ## 报告 {#reports}
 
+- [2026 中文在线社区跨性别群体生活状况调研报告](https://kiramyao.com/report/2026-transgender-life-survey-reader-edition) (2026)\n  12 章、32 张图表，含执行摘要与交叉对比分析，全文在线阅读。
 - [2021 全国跨性别健康调研报告](https://cnlgbtdata.com/files/uploads/2023/01/2021全国跨性别健康调研报告.pdf) (2023)
 - [公众对变性人士权利的看法：中国](https://williamsinstitute.law.ucla.edu/publications/opinion-trans-rights-china/) (2021)\
   本报告介绍了有关中国变性人士及其权利的民意信息。
