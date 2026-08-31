@@ -78,5 +78,8 @@ links:
     url: https://transchinese.org
   - title: 跨性别相关知识科普站
     tags: [MtF, FtM]
+  - title: KiraMyao Equal
+    tags: [社区]
+    url: https://kiramyao.com/
     url: https://aboutrans.info/
 ---
