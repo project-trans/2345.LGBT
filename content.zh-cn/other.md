@@ -45,6 +45,8 @@ weight: 1000
 
 - [LGBTQIA in China](https://github.com/LGBT-CN/LGBTQIA-In-China)
 - [多元性別中文数字图书馆](https://transchinese.org/)
+- [KiraMyao Equal](https://kiramyao.com/)\
+  关注性别多元群体的独立研究、公共知识与数字公益项目，运营跨性别真实经历故事库（Stories）与社群调研报告。
 
 ## 周边商品 {#shop}
 
