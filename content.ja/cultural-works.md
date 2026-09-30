@@ -10,6 +10,13 @@ weight: 1
 ## 映画 {#eiga}
 
 - [彼らが本気で編むときは、](https://ja.wikipedia.org/wiki/彼らが本気で編むときは、) (2017)
+- [片袖の魚](https://eiga.com/movie/94272/) (2021)
+- [フタリノセカイ](https://futarinosekai.com/) (2022)
+- [息子と呼ぶ日まで](https://natalie.mu/eiga/news/586504) (2024)
+- [ブルーボーイ事件](https://ja.wikipedia.org/wiki/ブルーボーイ事件) (2025)
+- [映画 先輩はおとこのこ あめのち晴れ](https://senpaiha-otokonoko.com/) (2025)
+- [This is I](https://ja.wikipedia.org/wiki/This_is_I) (2026)
+- [となりのとらんす少女ちゃん（実写）](https://motion-gallery.net/projects/tonatoramovie) (2026)
 
 ## 漫画 {#manga}
 
@@ -22,6 +29,7 @@ weight: 1
 - [不可解なぼくのすべてを](https://comic.pixiv.net/works/5315) (2018)
 - [オレが私になるまで](https://ja.wikipedia.org/wiki/オレが私になるまで) (2019)
 - [先輩はおとこのこ](https://ja.wikipedia.org/wiki/先輩はおとこのこ) (2019)
+- [となりのとらんす少女ちゃん](https://www.amazon.co.jp/dp/4991392004) (2024)
 
 ## 小説 {#shosetsu}
 
@@ -32,11 +40,14 @@ weight: 1
 
 - [私が私であるために](https://ja.wikipedia.org/wiki/私が私であるために) (2006)
 - [女子的生活](https://ja.wikipedia.org/wiki/女子的生活) (2018)
+- [三浦部長、本日付けで女性になります。](https://thetv.jp/program/0000971500/) (2020)
+- [虎に翼](https://ja.wikipedia.org/wiki/虎に翼) (2024)
 
 ## テレビアニメ {#tv-anime}
 
 - [放浪息子](https://ja.wikipedia.org/wiki/放浪息子) (2011)
 - [Back Street Girls](https://ja.wikipedia.org/wiki/Back_Street_Girls) (2018)
+- [先輩はおとこのこ](https://ja.wikipedia.org/wiki/先輩はおとこのこ) (2024)
 
 ## ゲーム {#games}
 
