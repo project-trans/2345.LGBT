@@ -75,6 +75,14 @@ languages:
     weight: 4
     social:
       twitter: MtFwikiJapan
+  ko:
+    title: 2345.LGBT 트랜스젠더 포털
+    contentDir: content.ko
+    languageName: 대한민국（한국어）
+    params:
+      shortName: KR
+    timeZone: Asia/Seoul
+    weight: 5
   en:
     title: Awesome Trans - Transgender Portal
     contentDir: content.en
@@ -82,7 +90,7 @@ languages:
     params:
       shortName: EN
     timeZone: UTC
-    weight: 5
+    weight: 6
   nl:
     title: Awesome Trans - Transgender Portaal
     contentDir: content.nl
@@ -90,4 +98,4 @@ languages:
     params:
       shortName: NL
     timeZone: Europe/Amsterdam
-    weight: 6
+    weight: 7
