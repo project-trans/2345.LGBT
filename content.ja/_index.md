@@ -41,4 +41,7 @@ links:
   - title: GID治療院一覧（ホルモン治療）
     tags: [Map]
     url: https://g-pit.com/gidclinics/
+  - title: MTF.LGBT
+    tags: [MTF]
+    url: https://mtf.lgbt/
 ---

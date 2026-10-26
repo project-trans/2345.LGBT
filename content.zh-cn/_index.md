@@ -82,4 +82,7 @@ links:
   - title: KiraMyao Equal
     tags: [社区]
     url: https://kiramyao.com/
+  - title: MTF.LGBT
+    tags: [MTF]
+    url: https://mtf.lgbt/
 ---
