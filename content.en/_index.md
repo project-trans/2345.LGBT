@@ -3,7 +3,13 @@ title: Websites
 description: Awesome Trans - Transgender Portal
 brand: '{{< brand >}}'
 slogan: '{{< brand >}} Awesome Trans'
+featured:
+  - title: LGBTIQA+ Open Source Social Network
+    url: https://coolvibes.lgbt
 links:
+  - title: LGBTIQA+ Open Source Social Network
+    tags: [Social Media, General]
+    url: https://coolvibes.lgbt
   - title: Trans in Academia!
     tags: [General]
     url: https://transinacademia.org/
